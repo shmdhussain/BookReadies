@@ -385,13 +385,13 @@
 
 // Inverted navbar
 // Reset inverted navbar basics
-@navbar-inverse-color:                      lighten(@gray-light, 15%);
-@navbar-inverse-bg:                         #222;
+@navbar-inverse-color:                      @mysecColor;
+@navbar-inverse-bg:                         @myprimaryColor;
 @navbar-inverse-border:                     darken(@navbar-inverse-bg, 10%);
 
 // Inverted navbar links
-@navbar-inverse-link-color:                 lighten(@gray-light, 15%);
-@navbar-inverse-link-hover-color:           #fff;
+@navbar-inverse-link-color:                 @mysecColor;
+@navbar-inverse-link-hover-color:           darken(@navbar-inverse-color, 10%);
 @navbar-inverse-link-hover-bg:              transparent;
 @navbar-inverse-link-active-color:          @navbar-inverse-link-hover-color;
 @navbar-inverse-link-active-bg:             darken(@navbar-inverse-bg, 10%);
@@ -404,9 +404,9 @@
 @navbar-inverse-brand-hover-bg:             transparent;
 
 // Inverted navbar toggle
-@navbar-inverse-toggle-hover-bg:            #333;
-@navbar-inverse-toggle-icon-bar-bg:         #fff;
-@navbar-inverse-toggle-border-color:        #333;
+@navbar-inverse-toggle-hover-bg:            @mysecColor;
+@navbar-inverse-toggle-icon-bar-bg:         @myprimaryColor;
+@navbar-inverse-toggle-border-color:        @mysecColor;
 
 
 //== Navs

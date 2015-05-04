@@ -1,0 +1,53 @@
+@myprimaryColor:#FF55B1;
+@mysecColor:#FFF;
+
+.bookHead {
+    position: relative;
+    padding: 30px 0;
+    color: @mysecColor;
+    text-align: center;
+   /* text-shadow: 0 1px 0 rgba(0,0,0,.1);*/
+    background-color: @myprimaryColor;
+    background-repeat: repeat-x;
+	  margin-bottom: 40px;
+	  margin-top:@navbar-height;
+}
+
+.bookHead {
+    margin-bottom: 40px;
+    font-size: 20px
+}
+
+.bookHead h1 {
+    margin-top: 0;
+    color: @mysecColor;
+}
+
+.bookHead p {
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 1.4
+}
+
+.bookHead .container {
+    position: relative
+}
+@media (min-width: 768px) {
+    .bookHead {
+        padding-top:60px;
+        padding-bottom: 60px;
+        font-size: 24px;
+        text-align: left
+    }
+
+    .bookHead h1 {
+        font-size: 60px;
+        line-height: 1
+    }
+}
+
+@media (min-width: 992px) {
+    .bookHead h1,.bookHead p {
+        margin-right:380px
+    }
+}
