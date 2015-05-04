@@ -1,16 +1,16 @@
-@myprimaryColor:#FF55B1;
-@mysecColor:#FFF;
+
+@bookHeadbg: lighten(@myprimaryColor, 60%);
 
 .bookHead {
     position: relative;
     padding: 30px 0;
-    color: @mysecColor;
+    color: @myprimaryColor;
     text-align: center;
    /* text-shadow: 0 1px 0 rgba(0,0,0,.1);*/
-    background-color: @myprimaryColor;
+    background-color: @bookHeadbg;
     background-repeat: repeat-x;
-	  margin-bottom: 40px;
-	  margin-top:@navbar-height;
+	margin-bottom: 40px;
+	/*margin-top:@navbar-height;*/
 }
 
 .bookHead {
@@ -20,7 +20,7 @@
 
 .bookHead h1 {
     margin-top: 0;
-    color: @mysecColor;
+    color: @myprimaryColor;
 }
 
 .bookHead p {
