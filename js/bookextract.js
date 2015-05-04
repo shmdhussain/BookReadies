@@ -28,13 +28,14 @@ function mycollect(){
 		var $this=$(this);
 		item.title=$this.html();
 		item.topic=$this.attr("title");
+		item.href=$this.attr("href");
 		item.subtopic=$this.attr("data-sub");
 		item.createdate=$this.attr("ADD_DATE");
 		item.moddate= $this.attr("LAST_MODIFIED") || $this.attr("ADD_DATE");
 		console.log(count+". "+item.moddate);
-		item.createdate= new Date(item.createdate);
-		item.moddate= new Date(item.moddate)
-		console.log(count+". "+item.moddate);
+		//item.createdate= new Date(item.createdate);
+		//item.moddate= new Date(item.moddate)
+		//console.log(count+". "+item.moddate);
 		
 		bookArr.push(JSON.stringify(item));
 	});
