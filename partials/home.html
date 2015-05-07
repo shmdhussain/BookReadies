@@ -1,32 +1,4 @@
-			 <div class="navbar navbar-inverse " role="navigation">
-			  <div class="container pRL15">
-				<div class="navbar-header">
-				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				  </button>
-				  <a class="navbar-brand" href="#">Book Readies</a>
-				</div>
-				<div class="clear visible-sm-block">
-				
-				</div>
-				<div class="hidden-xs dsb ">
-					<a ng-repeat="item in topicData" class="btn-lg btn btn-default" href="#/{{item}}" role="button">{{item}}</a>
-					<a  class="btn-lg btn btn-default" href="#/search/all" role="button">Search</a>
-				</div>
-				
-				<div class="collapse navbar-collapse mRL-15">
-				  <ul class="nav navbar-nav">
-					<li ng-repeat="item in topicData"><a href="#/{{item}}" role="button">{{item}}</a></li>
-					<li ><a href="#/search/all" role="button">Search</a></li>
-				  </ul>
-				</div><!--/.nav-collapse -->
-			  </div>
-			</div>
-			
-			
+			<ng-include src="'partials/header.html'"> </ng-include>
 			<div class="bookHead" id="content" tabindex="-1">
 			  <div class="container">
 				<h1>BookReadies</h1>
@@ -38,7 +10,7 @@
 				<div class="container-fluid">
 					  <div class="row">
 						 <div ng-repeat="item in topicData" class="col-sm-4 col-xs-12 col-md-3 ">
-							 <div class="booktitle verticalCentreparent">
+							 <div ng-click="gotolocation(item)" class="booktitle verticalCentreparent">
 								<div class="verticalCentreparentElem">
 									<span class="booktitlesub">{{noOfLinks[$index]}}+ links in </span><br/>
 									<a class="" href="#/{{item}}" >{{item}}</a><br>

@@ -2550,11 +2550,11 @@ output {
   -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 .form-control:focus {
-  border-color: #66afe9;
+  border-color: #ff55b1;
   outline: 0;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
-  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
-  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255, 85, 177, 0.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255, 85, 177, 0.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(255, 85, 177, 0.6);
 }
 .form-control::-moz-placeholder {
   color: #999999;
@@ -6658,6 +6658,12 @@ button.close {
 #mymain .mRL-15 {
   margin-left: -15px;
   margin-right: -15px;
+}
+.searchinput {
+  margin-top: 40px;
+}
+.searchinput label {
+  color: #ff55b1;
 }
 @media (min-width: 768px) {
   .bookHead {

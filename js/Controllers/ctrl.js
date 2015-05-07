@@ -11,85 +11,72 @@ myApp.controller('parentCtrl',['$scope','$window','$location',function ($scope,$
 
 myApp.controller("headCtrl", function($scope, $routeParams,mydata) {
 	console.log("headCtrl");
-	$scope.topicData=mydata.gettopicdata();
+	mydata.gettopicdata().then(function(data){
+		$scope.topicData=data;
+	});
 });
 
 
-myApp.controller("homeCtrl", function($scope, $routeParams, mydata) {
-	
+myApp.controller("homeCtrl", function($scope, $routeParams, mydata,$location) {
 	console.log("homeCtrl");
-	
-	$scope.topicData=mydata.gettopicdata();
-	
 	$scope.noOfLinks=[];
-	console.log($scope.topicData.length);
-	angular.forEach($scope.topicData, function(value, key) {
-		console.log(value);
-		$scope.noOfLinks[key]=mydata.gettopicspecsubtitledata(value).noOfLinks;
+	mydata.gettopicdata().then(function(data){
+		$scope.topicData=data;
+		angular.forEach($scope.topicData, function(value, key) {
+			mydata.gettopicspecsubtitledata(value).then(function(data){
+				$scope.noOfLinks[key]=data.nooflinks;
+			});
+		});
 	});
 	
-	
-
+	$scope.gotolocation=function(title){
+		console.log("title: "+title);
+		var mypath="/"+title;
+		$location.path(mypath);
+	};
 });
 
 
 
-myApp.controller("htmlCtrl", function($scope, $routeParams,alldata) {
-
-	var uniquetopic = {};
-	var distincttopic = [];
-	$scope.pagetitle="BookReadies";
-	$scope.pagedesc="A collection of useful pages from the internet about the front end technoliges HTML, Javascript, Browsers and Devices and more...";
-	angular.forEach(alldata.data.data, function(value, key) {
-		if( typeof(uniquetopic[value.topic]) == "undefined"){
-		  distincttopic.push(value.topic);
-		}
-		uniquetopic[value.topic] = 0;
+myApp.controller("htmlCtrl", function($scope, $routeParams,mydata,$location) {
+	console.log("htmlCtrl");
+	var value=$location.path().substring(1);
+	mydata.gettopicspecsubtitledata(value).then(function(data){
+		$scope.pagedata=data.subtopicdataarr;
 	});
-	
-	$scope.topicData=distincttopic.sort()
-	
-	console.log("htmlCtrl");
-	
-	$scope.topicData=[];
-	$scope.subtopicData=[];
-
 });
 
-myApp.controller("miscCtrl", function($scope, $routeParams,alldata) {
-	
-	console.log("htmlCtrl");
-	
-	$scope.topicData=[];
-	$scope.subtopicData=[];
+myApp.controller("miscCtrl", function($scope, $routeParams,mydata,$location) {
+	console.log("miscCtrl");
+	var value=$location.path().substring(1);
+	mydata.gettopicspecsubtitledata(value).then(function(data){
+		$scope.pagedata=data.subtopicdataarr;
+	});
 
 });
-myApp.controller("browserCtrl", function($scope, $routeParams,alldata) {
-	
+myApp.controller("browserCtrl", function($scope, $routeParams,mydata,$location) {
 	console.log("browserCtrl");
-	
-	$scope.topicData=[];
-	$scope.subtopicData=[];
+	var value=$location.path().substring(1);
+	mydata.gettopicspecsubtitledata(value).then(function(data){
+		$scope.pagedata=data.subtopicdataarr;
+	});
 
 });
-myApp.controller("cssCtrl", function($scope, $routeParams,alldata) {
-	
+myApp.controller("cssCtrl", function($scope, $routeParams,mydata,$location) {
 	console.log("cssCtrl");
-	
-	$scope.topicData=[];
-	$scope.subtopicData=[];
-
+	var value=$location.path().substring(1);
+	mydata.gettopicspecsubtitledata(value).then(function(data){
+		$scope.pagedata=data.subtopicdataarr;
+	});
 });
-myApp.controller("jsCtrl", function($scope, $routeParams,alldata) {
-	
+myApp.controller("jsCtrl", function($scope, $routeParams,mydata,$location) {
 	console.log("jsCtrl");
-	
-	$scope.topicData=[];
-	$scope.subtopicData=[];
-
+	var value=$location.path().substring(1);
+	mydata.gettopicspecsubtitledata(value).then(function(data){
+		$scope.pagedata=data.subtopicdataarr;
+	});
 });
-myApp.controller("searchCtrl", function($scope, $routeParams,alldata) {
-
+myApp.controller("searchCtrl", function($scope, $routeParams,alldata,$location) {
 	console.log("searchCtrl");
     $scope.param = $routeParams.param;
 	$scope.pagedata=[];

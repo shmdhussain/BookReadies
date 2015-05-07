@@ -1,6 +1,13 @@
+<ng-include src="'partials/header.html'"> </ng-include>
+<div class="bookHead" id="content" tabindex="-1">
+  <div class="container">
+	<h1>HTML</h1>
+	<p></p>
+  </div>
+</div>
 
 <ul>
-	<li>
-	
-	</li>
+
+<li ng-repeat="item in pagedata">{{item.title}}</li>
+
 </ul>

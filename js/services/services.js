@@ -44,32 +44,39 @@ myApp.factory('httpq', function($http, $q) {
 myApp.factory('mydata', function($http, httpq) {
    var uniquetopic = {};
    var distincttopic = [];
+  
     return {
 		gettopicdata: function() {
-			  httpq.get().then(function(alldata){
+			 var subtitledatapro=httpq.get().then(function(alldata){
+				console.log("hi");
 				angular.forEach(alldata.data, function(value, key) {
 					if( typeof(uniquetopic[value.topic]) == "undefined"){
 					  distincttopic.push(value.topic);
 					}
 					uniquetopic[value.topic] = 0;
 				});
-			  
-			  });
-			  return distincttopic;
+				return distincttopic;
+			 });
+			  return subtitledatapro;
 		},
 		gettopicspecsubtitledata: function(topictitle) {
-			var subtopicdata={noOfLinks:0,topiclinks:[]}
-			  httpq.get().then(function(alldata){
-			  
+			
+			var subtitledatapro=httpq.get().then(function(alldata){
+				console.log("hidddd");
+				var subtopicdata={'subtopicdataarr':[],'nooflinks':0};
+				var count=0;
 				angular.forEach(alldata.data, function(value, key) {
-					if( value.topic == topictitle){
-					  subtopicdata.topiclinks.push(value);
-					  subtopicdata.noOfLinks++;
+					if(value.topic == topictitle){
+					  subtopicdata.subtopicdataarr.push(value);
+					  count++;
+					  subtopicdata.nooflinks=count;
 					}
+					
+					
 				});
-				console.log("subtopicdata.noOfLinks: "+subtopicdata.noOfLinks);
-			  });
-			  return subtopicdata;
+				return subtopicdata;
+			});
+			return subtitledatapro;
 		}
 	}
 });
