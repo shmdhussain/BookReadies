@@ -9,21 +9,26 @@ myApp.controller('parentCtrl',['$scope','$window','$location',function ($scope,$
 }]);
 
 
+myApp.controller("headCtrl", function($scope, $routeParams,mydata) {
+	console.log("headCtrl");
+	$scope.topicData=mydata.gettopicdata();
+});
 
-myApp.controller("homeCtrl", function($scope, $routeParams, alldata) {
+
+myApp.controller("homeCtrl", function($scope, $routeParams, mydata) {
 	
 	console.log("homeCtrl");
 	
-	var uniquetopic = {};
-	var distincttopic = [];
-	angular.forEach(alldata.data.data, function(value, key) {
-		if( typeof(uniquetopic[value.topic]) == "undefined"){
-		  distincttopic.push(value.topic);
-		}
-		uniquetopic[value.topic] = 0;
+	$scope.topicData=mydata.gettopicdata();
+	
+	$scope.noOfLinks=[];
+	console.log($scope.topicData.length);
+	angular.forEach($scope.topicData, function(value, key) {
+		console.log(value);
+		$scope.noOfLinks[key]=mydata.gettopicspecsubtitledata(value).noOfLinks;
 	});
 	
-	$scope.topicData=distincttopic.sort();
+	
 
 });
 
@@ -88,6 +93,9 @@ myApp.controller("searchCtrl", function($scope, $routeParams,alldata) {
 	console.log("searchCtrl");
     $scope.param = $routeParams.param;
 	$scope.pagedata=[];
+	
+	
+	
 	if($scope.param=='html'){
 		angular.forEach(alldata.data.data, function(value, key) {
 			if(value.topic=='html'){

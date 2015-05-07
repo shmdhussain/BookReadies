@@ -51,7 +51,7 @@
 		"title": "Performance Considerations in Internet Explorer",
 		"topic": "Miscellaneous",
 		"href": "http://msdn.microsoft.com/en-us/library/ms533021(v=vs.85).aspx",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -75,7 +75,7 @@
 		"title": "Tamil unicode Convertor",
 		"topic": "Miscellaneous",
 		"href": "http://vikku.info/indian-language-unicode-convertor/tamil-unicode-convertor.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -91,7 +91,7 @@
 		"title": "Collapsing Margins",
 		"topic": "CSS",
 		"href": "http://reference.sitepoint.com/css/collapsingmargins",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -99,7 +99,7 @@
 		"title": "Internet Explorer Conditional Comments",
 		"topic": "CSS",
 		"href": "http://reference.sitepoint.com/css/conditionalcomments",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -131,7 +131,7 @@
 		"title": "URL Encoding/Decoding",
 		"topic": "Browsers",
 		"href": "http://www.digitalcoding.com/tools/url-encode-decode.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -147,7 +147,7 @@
 		"title": "Using rowspan and colspan in a single cell",
 		"topic": "CSS",
 		"href": "http://www.scriptingmaster.com/html/rowspan-colspan-single-cell.asp",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -155,7 +155,7 @@
 		"title": "MC Media Player Setup Tool",
 		"topic": "Javascript",
 		"href": "http://www.mcmediaplayer.com/setup/index.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -163,7 +163,7 @@
 		"title": "infinite, circular jQuery carousel --- CarouFredSel 4.4.1",
 		"topic": "Javascript",
 		"href": "http://caroufredsel.frebsite.nl/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -171,7 +171,7 @@
 		"title": "Gallery - Page 2 | Web Resources | WebAppers",
 		"topic": "Javascript",
 		"href": "http://www.webappers.com/category/components/gallery/page/2/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -187,7 +187,7 @@
 		"title": "Scared of Floats Bug - CSS Bugs - hasLayout.net by Zoffix Znet",
 		"topic": "html",
 		"href": "http://haslayout.net/css/Scared-of-Floats-Bug",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -195,7 +195,7 @@
 		"title": "IE’s Compatibility Features for Site Developers - IEBlog - Site Home - MSDN Blogs",
 		"topic": "Browsers",
 		"href": "https://blogs.msdn.com/b/ie/archive/2010/06/16/ie-s-compatibility-features-for-site-developers.aspx",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -203,7 +203,7 @@
 		"title": "Table Layout",
 		"topic": "html",
 		"href": "http://www.w3.org/TR/CSS2/tables.html#width-layout",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -211,7 +211,7 @@
 		"title": "HTML 4.0 Inline Elements",
 		"topic": "html",
 		"href": "http://htmlhelp.com/reference/html40/inline.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -219,7 +219,7 @@
 		"title": "Top 6 Internet Explorer Extensions for Web Developers",
 		"topic": "Browsers",
 		"href": "http://sixrevisions.com/tools/internet_explorer_extensions_addons_web_developers/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -251,7 +251,7 @@
 		"title": "slice javascript - Google Search",
 		"topic": "Javascript",
 		"href": "http://www.google.co.in/search?rlz=1C1_____enUS437US437&aq=f&sourceid=chrome&ie=UTF-8&q=slice+javascript",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -259,7 +259,7 @@
 		"title": "JavaScript indexOf() Method",
 		"topic": "Javascript",
 		"href": "http://www.w3schools.com/jsref/jsref_indexof.asp",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -347,7 +347,7 @@
 		"title": "In the Woods – Ask JW: Decoding Self-Invoking Anonymous Functions",
 		"topic": "Javascript",
 		"href": "http://blog.themeforest.net/tutorials/ask-jw-decoding-self-invoking-anonymous-functions/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -387,7 +387,7 @@
 		"title": "javascript - Load and execution sequence of a web page? - Stack Overflow",
 		"topic": "Browsers",
 		"href": "http://stackoverflow.com/questions/1795438/load-and-execution-sequence-of-a-web-page",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -419,7 +419,7 @@
 		"title": "Dom Definition By Mozilla",
 		"topic": "html",
 		"href": "https://developer.mozilla.org/en/gecko_dom_reference/introduction#What_is_the_DOM.3f",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -443,7 +443,7 @@
 		"title": "Closures in JavaScript",
 		"topic": "Javascript",
 		"href": "http://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -467,7 +467,7 @@
 		"title": "How to align content of a div to the bottom with css? - Stack Overflow",
 		"topic": "CSS",
 		"href": "http://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom-with-css",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -483,7 +483,7 @@
 		"title": "experiments/javascript/module-pattern.html at master · stevekwan/experiments · GitHub",
 		"topic": "Javascript",
 		"href": "https://github.com/stevekwan/experiments/blob/master/javascript/module-pattern.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -499,7 +499,7 @@
 		"title": "Comparison operators - JavaScript | MDN",
 		"topic": "Javascript",
 		"href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1410863525",
 		"moddate": "1410863525"
 	},
@@ -507,7 +507,7 @@
 		"title": "JavaScript pitfalls: null, false, undefined, NaN - MapbenderWiki",
 		"topic": "Javascript",
 		"href": "http://www.mapbender.org/JavaScript_pitfalls:_null,_false,_undefined,_NaN",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1410864037",
 		"moddate": "1410864037"
 	},
@@ -515,7 +515,7 @@
 		"title": "Function Declarations vs. Function Expressions | JavaScript, JavaScript...",
 		"topic": "Javascript",
 		"href": "http://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1417089179",
 		"moddate": "1417089179"
 	},
@@ -555,7 +555,7 @@
 		"title": "Relative Path-info",
 		"topic": "Miscellaneous",
 		"href": "http://www.perlmonks.org/index.pl?node_id=808203",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -579,7 +579,7 @@
 		"title": "Need just dial chennai number? - Yahoo! Answers",
 		"topic": "Miscellaneous",
 		"href": "http://answers.yahoo.com/question/index?qid=20091022064400AAHVS7Y",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -635,7 +635,7 @@
 		"title": "train seat vacancy status",
 		"topic": "Miscellaneous",
 		"href": "http://www.indianrail.gov.in/dont_Know_Station_Code.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -643,7 +643,7 @@
 		"title": "The Command Line in Windows: Batch file basics",
 		"topic": "Miscellaneous",
 		"href": "http://commandwindows.com/batch.htm",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -755,7 +755,7 @@
 		"title": "javascript - Detect Safari browser - Stack Overflow",
 		"topic": "Browsers",
 		"href": "http://stackoverflow.com/questions/7944460/detect-safari-browser",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -763,7 +763,7 @@
 		"title": "IEWatch - help video",
 		"topic": "Browsers",
 		"href": "http://www.iewatch.com/ieprofessional.aspx?id=features",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -827,7 +827,7 @@
 		"title": "userAgents - userAgents.IE",
 		"topic": "Browsers",
 		"href": "http://useragents.ie/UserAgentsList",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -883,7 +883,7 @@
 		"title": "cdnjs - the missing cdn for javascript and css",
 		"topic": "html",
 		"href": "http://cdnjs.com/libraries/lodash.js/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -891,7 +891,7 @@
 		"title": "Full property table",
 		"topic": "html",
 		"href": "http://www.w3.org/TR/CSS2/propidx.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -979,7 +979,7 @@
 		"title": "Javascript - The this keyword",
 		"topic": "Javascript",
 		"href": "http://www.quirksmode.org/js/this.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1051,7 +1051,7 @@
 		"title": "The this keyword in JavaScript — Alejandro Beltrán",
 		"topic": "Javascript",
 		"href": "http://alebelcor.github.io/2011/this-keyword-in-javascript/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1059,7 +1059,7 @@
 		"title": "5 Great Resources for Learning Javascript Fundamentals",
 		"topic": "Javascript",
 		"href": "http://tobyho.com/2010/11/10/5-great-resources-for-learning/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1067,7 +1067,7 @@
 		"title": "Design Patterns on CodePen",
 		"topic": "html",
 		"href": "http://codepen.io/patterns/?mkt_tok=3RkMMJWWfF9wsRonuavLZKXonjHpfsX56eUkXaCzlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBg%3D",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1418717961",
 		"moddate": "1418717961"
 	},
@@ -1083,7 +1083,7 @@
 		"title": "Apache Cordova API Documentation",
 		"topic": "Miscellaneous",
 		"href": "http://docs.phonegap.com/en/2.1.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1259,7 +1259,7 @@
 		"title": "iPhone &amp; iPod Detection Using JavaScript",
 		"topic": "Browsers",
 		"href": "http://davidwalsh.name/detect-iphone",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1283,7 +1283,7 @@
 		"title": "debugging cordova apps with ...",
 		"topic": "Browsers",
 		"href": "http://muellerware.org/papers/pgday-2012-us/#4",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1699,7 +1699,7 @@
 		"title": "Adobe Inspire Magazine | April 2013",
 		"topic": "Miscellaneous",
 		"href": "http://www.adobe.com/inspire.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},
@@ -1707,7 +1707,7 @@
 		"title": "XML Namespaces",
 		"topic": "html",
 		"href": "http://www.w3schools.com/XML/xml_namespaces.asp",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},
@@ -1747,7 +1747,7 @@
 		"title": "Authoring development workflow - Google Chrome",
 		"topic": "html",
 		"href": "https://developer.chrome.com/devtools/docs/authoring-development-workflow",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1411212503",
 		"moddate": "1411212503"
 	},
@@ -1779,7 +1779,7 @@
 		"title": "Syntax and basic data types",
 		"topic": "CSS",
 		"href": "http://www.w3.org/TR/CSS21/syndata.html#color-units",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1427268227",
 		"moddate": "1427268227"
 	},
@@ -1787,7 +1787,7 @@
 		"title": "CSS Sprites: What They Are, Why They're Cool, and How To Use Them | CSS-Tricks",
 		"topic": "CSS",
 		"href": "http://css-tricks.com/css-sprites/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1424861735",
 		"moddate": "1424861735"
 	},
@@ -1835,7 +1835,7 @@
 		"title": "All you need to master Dev, IT and Creative Design skills | LearnNowOnline",
 		"topic": "html",
 		"href": "http://www.learnnowonline.com/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1425449616",
 		"moddate": "1425449616"
 	},
@@ -2011,7 +2011,7 @@
 		"title": "Work: SCALGO Website / Shannon Mølhave / LeftyDesigner",
 		"topic": "Miscellaneous",
 		"href": "http://leftydesigner.com/work-scalgosite.php#desktop",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1426568622",
 		"moddate": "1426568622"
 	},
@@ -2019,7 +2019,7 @@
 		"title": "CSS Triggers...",
 		"topic": "CSS",
 		"href": "http://csstriggers.com/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1427783721",
 		"moddate": "1427783721"
 	},
@@ -2043,7 +2043,7 @@
 		"title": "Displaying a numeric keypad in the browser",
 		"topic": "Browsers",
 		"href": "http://social.msdn.microsoft.com/forums/en-us/wpdevelop/thread/7874d872-dfab-41ea-8b24-3e69c3434c4b",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093252",
 		"moddate": "1389093252"
 	},
@@ -2051,7 +2051,7 @@
 		"title": "The Windows Blog",
 		"topic": "Browsers",
 		"href": "http://blogs.windows.com/windows_phone/b/wpdev/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093252",
 		"moddate": "1389093252"
 	},
@@ -2059,7 +2059,7 @@
 		"title": "Windows Phone SDK 7.1 Training Course",
 		"topic": "Browsers",
 		"href": "http://msdn.microsoft.com/en-us/WindowsPhoneTrainingCourse",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093252",
 		"moddate": "1389093252"
 	},
@@ -2067,7 +2067,7 @@
 		"title": "Forms (Windows)",
 		"topic": "Browsers",
 		"href": "http://msdn.microsoft.com/en-us/library/ie/hh673544%28v=vs.85%29.aspx",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093252",
 		"moddate": "1389093252"
 	},
@@ -2171,7 +2171,7 @@
 		"title": "Home - Browserscope",
 		"topic": "html",
 		"href": "http://www.browserscope.org/?category=network",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1395674420",
 		"moddate": "1395674420"
 	},
@@ -2179,7 +2179,7 @@
 		"title": "Webmaster Tools - Home",
 		"topic": "html",
 		"href": "https://www.google.com/webmasters/tools/home?hl=en",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1395674450",
 		"moddate": "1395674450"
 	},
@@ -2203,7 +2203,7 @@
 		"title": "Performance Calendar » CSS Selector Performance has changed! (For the better)",
 		"topic": "CSS",
 		"href": "http://calendar.perfplanet.com/2011/css-selector-performance-has-changed-for-the-better/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1423661008",
 		"moddate": "1423661008"
 	},
@@ -2211,7 +2211,7 @@
 		"title": "CSS: Specificity Wars | And all that Malarkey",
 		"topic": "CSS",
 		"href": "http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1423661282",
 		"moddate": "1423661282"
 	},
@@ -2347,7 +2347,7 @@
 		"title": "Internet Options Shortcut - Create - Windows 7 Help Forums",
 		"topic": "Miscellaneous",
 		"href": "http://www.sevenforums.com/tutorials/24072-internet-options-shortcut-create.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389267558",
 		"moddate": "1389267558"
 	},
@@ -2371,7 +2371,7 @@
 		"title": "Mobile Web &amp; HTML5 for mobile devices analysis, news and source code",
 		"topic": "Browsers",
 		"href": "http://www.mobilexweb.com/",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},
@@ -2419,7 +2419,7 @@
 		"title": "On having layout — the concept of hasLayout in IE/Win",
 		"topic": "CSS",
 		"href": "http://www.satzansatz.de/cssd/onhavinglayout.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},
@@ -2427,7 +2427,7 @@
 		"title": "Oracle Database 11g Express Edition Part 1",
 		"topic": "Miscellaneous",
 		"href": "http://www.oracle.com/webfolder/technetwork/tutorials/tutorial/db/11g/r2/xe_revised/player.html",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},
@@ -2435,7 +2435,7 @@
 		"title": "oracle10g - Install Oracle on my vista desktop - Stack Overflow",
 		"topic": "Miscellaneous",
 		"href": "http://stackoverflow.com/questions/2091432/install-oracle-on-my-vista-desktop",
-		"subtopic": "none",
+		"subtopic": "Common",
 		"createdate": "1389093270",
 		"moddate": "1389093270"
 	},

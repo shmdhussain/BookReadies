@@ -41,6 +41,37 @@ myApp.factory('httpq', function($http, $q) {
   }
 });
 
-
+myApp.factory('mydata', function($http, httpq) {
+   var uniquetopic = {};
+   var distincttopic = [];
+    return {
+		gettopicdata: function() {
+			  httpq.get().then(function(alldata){
+				angular.forEach(alldata.data, function(value, key) {
+					if( typeof(uniquetopic[value.topic]) == "undefined"){
+					  distincttopic.push(value.topic);
+					}
+					uniquetopic[value.topic] = 0;
+				});
+			  
+			  });
+			  return distincttopic;
+		},
+		gettopicspecsubtitledata: function(topictitle) {
+			var subtopicdata={noOfLinks:0,topiclinks:[]}
+			  httpq.get().then(function(alldata){
+			  
+				angular.forEach(alldata.data, function(value, key) {
+					if( value.topic == topictitle){
+					  subtopicdata.topiclinks.push(value);
+					  subtopicdata.noOfLinks++;
+					}
+				});
+				console.log("subtopicdata.noOfLinks: "+subtopicdata.noOfLinks);
+			  });
+			  return subtopicdata;
+		}
+	}
+});
 
 

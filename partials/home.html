@@ -1,5 +1,5 @@
 			 <div class="navbar navbar-inverse " role="navigation">
-			  <div class="container">
+			  <div class="container pRL15">
 				<div class="navbar-header">
 				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 					<span class="sr-only">Toggle navigation</span>
@@ -17,7 +17,7 @@
 					<a  class="btn-lg btn btn-default" href="#/search/all" role="button">Search</a>
 				</div>
 				
-				<div class="collapse navbar-collapse">
+				<div class="collapse navbar-collapse mRL-15">
 				  <ul class="nav navbar-nav">
 					<li ng-repeat="item in topicData"><a href="#/{{item}}" role="button">{{item}}</a></li>
 					<li ><a href="#/search/all" role="button">Search</a></li>
@@ -37,12 +37,17 @@
 			<div class="booksec">
 				<div class="container-fluid">
 					  <div class="row">
-					  
-						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
-						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
-						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
-						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
+						 <div ng-repeat="item in topicData" class="col-sm-4 col-xs-12 col-md-3 ">
+							 <div class="booktitle verticalCentreparent">
+								<div class="verticalCentreparentElem">
+									<span class="booktitlesub">{{noOfLinks[$index]}}+ links in </span><br/>
+									<a class="" href="#/{{item}}" >{{item}}</a><br>
+									<span class="booktitlesub">click to see more</span>
+								</div>
+								
+							 </div>
 						 
+						 </div>
 						 
 					  </div>
 				</div>
