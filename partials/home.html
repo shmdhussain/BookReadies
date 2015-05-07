@@ -1,0 +1,50 @@
+			 <div class="navbar navbar-inverse " role="navigation">
+			  <div class="container">
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+				  <a class="navbar-brand" href="#">Book Readies</a>
+				</div>
+				<div class="clear visible-sm-block">
+				
+				</div>
+				<div class="hidden-xs dsb ">
+					<a ng-repeat="item in topicData" class="btn-lg btn btn-default" href="#/{{item}}" role="button">{{item}}</a>
+					<a  class="btn-lg btn btn-default" href="#/search/all" role="button">Search</a>
+				</div>
+				
+				<div class="collapse navbar-collapse">
+				  <ul class="nav navbar-nav">
+					<li ng-repeat="item in topicData"><a href="#/{{item}}" role="button">{{item}}</a></li>
+					<li ><a href="#/search/all" role="button">Search</a></li>
+				  </ul>
+				</div><!--/.nav-collapse -->
+			  </div>
+			</div>
+			
+			
+			<div class="bookHead" id="content" tabindex="-1">
+			  <div class="container">
+				<h1>BookReadies</h1>
+				<p>A collection of useful pages from the internet about the front end technoliges HTML, Javascript, Browsers and Devices and more...</p>
+			  </div>
+			</div>
+			
+			<div class="booksec">
+				<div class="container-fluid">
+					  <div class="row">
+					  
+						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
+						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
+						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
+						 <div class="col-sm-6 col-xs-12 col-md-3">.col-md-1</div>
+						 
+						 
+					  </div>
+				</div>
+			</div>
+			
