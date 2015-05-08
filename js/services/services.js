@@ -14,7 +14,7 @@ myApp.factory('getalldata', function($http) {
     //var dataObj=[{'fn':'hussain'},{'fn':"maryam"}];
     var dataObj={};
 	
-    var responsePromise = $http.get("/data.json");
+    var responsePromise = $http.get("data.json");
 	
 	responsePromise.success(function(data) {
 		return data;
