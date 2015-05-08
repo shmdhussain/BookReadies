@@ -33,7 +33,7 @@ myApp.factory('httpq', function($http, $q) {
   return {
     get: function() {
       var deferred = $q.defer();
-      $http.get("/data.json")
+      $http.get("data.json")
       .success(deferred.resolve)
       .error(deferred.resolve);
       return deferred.promise;
