@@ -18,6 +18,8 @@ myApp.controller("headCtrl", function($scope, $routeParams,mydata,$location) {
 	var value=$location.path().substring(1);
 	value=value.match(/\w+\/?/i);
 	$scope.pagetitle={};
+	$scope.pagetitle={};
+	$scope.pagetitle={};
 	$scope.pagetitle.val=value[0];
 	console.log("$scope.pagetitle: "+$scope.pagetitle.val);
 });
