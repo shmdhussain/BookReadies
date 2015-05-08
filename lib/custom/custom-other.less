@@ -51,9 +51,10 @@
 	background-color:fade(@myprimaryColor, 50%);
 }
 
-#mymain .navbar-collapse li.active a{
+#mymain .navbar-collapse li a.mobheadactive,#mymain .navbar-collapse li a.mobheadactive:hover{
+	background:@myprimaryColor;
 	color:@mysecColor;
-	background-color:fade(@myprimaryColor, 90%);
+	font-weight:bold;
 }
 
 .clear{clear:both}
@@ -71,6 +72,15 @@
 	background:@mysecColor;
 	color:@myprimaryColor;
 }
+
+#mymain .dsb a.headactive{
+	background:@mysecColor;
+	color:@myprimaryColor;
+}
+
+
+
+
 .booksec{margin:0 20px}
 
 .booktitle{

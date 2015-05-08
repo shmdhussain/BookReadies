@@ -6582,9 +6582,11 @@ button.close {
   color: #ffffff;
   background-color: rgba(255, 85, 177, 0.5);
 }
-#mymain .navbar-collapse li.active a {
+#mymain .navbar-collapse li a.mobheadactive,
+#mymain .navbar-collapse li a.mobheadactive:hover {
+  background: #ff55b1;
   color: #ffffff;
-  background-color: rgba(255, 85, 177, 0.9);
+  font-weight: bold;
 }
 .clear {
   clear: both;
@@ -6607,6 +6609,10 @@ button.close {
 #mymain .dsb a:hover,
 #mymain .dsb a:focus,
 #mymain .dsb a:active {
+  background: #ffffff;
+  color: #ff55b1;
+}
+#mymain .dsb a.headactive {
   background: #ffffff;
   color: #ff55b1;
 }

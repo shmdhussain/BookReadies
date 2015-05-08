@@ -14,7 +14,7 @@ myApp.factory('getalldata', function($http) {
     //var dataObj=[{'fn':'hussain'},{'fn':"maryam"}];
     var dataObj={};
 	
-    var responsePromise = $http.get("BookReadies/data.json");
+    var responsePromise = $http.get("stubs/data.json");
 	
 	responsePromise.success(function(data) {
 		return data;
@@ -33,7 +33,7 @@ myApp.factory('httpq', function($http, $q) {
   return {
     get: function() {
       var deferred = $q.defer();
-      $http.get("BookReadies/data.json")
+      $http.get("stubs/data.json")
       .success(deferred.resolve)
       .error(deferred.resolve);
       return deferred.promise;

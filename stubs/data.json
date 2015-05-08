@@ -1,0 +1,2466 @@
+{
+	"data": [{
+		"title": "Tutorials:Getting Started with jQuery - jQuery JavaScript Library",
+		"topic": "Javascript",
+		"href": "http://docs.jquery.com/Tutorials:Getting_Started_with_jQuery",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Microsoft Office Communicator Web Access",
+		"topic": "Miscellaneous",
+		"href": "http://blrkecocwa02/",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "MCT Quiz Portal",
+		"topic": "Miscellaneous",
+		"href": "http://chnmct248193d/Quiz/Home.aspx",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "TS Web Access",
+		"topic": "Miscellaneous",
+		"href": "https://atltsgateway1.portalservices.com/ts/en-US/Desktops.aspx",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "WAR (Weekly Activity Report)",
+		"topic": "Miscellaneous",
+		"href": "http://iscls3redirect/war40/Aspx/War40MySummaryScreen.aspx",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "LookUp IP-URL",
+		"topic": "Miscellaneous",
+		"href": "http://www.computerhope.com/nslookup.htm",
+		"subtopic": "Internet",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Performance Considerations in Internet Explorer",
+		"topic": "Miscellaneous",
+		"href": "http://msdn.microsoft.com/en-us/library/ms533021(v=vs.85).aspx",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Chrome Developer Tools: Profiles Panel - Google Chrome Developer Tools - Google Code",
+		"topic": "Browsers",
+		"href": "http://code.google.com/chrome/devtools/docs/profiles.html",
+		"subtopic": "chrome",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "FireFox Versions",
+		"topic": "Browsers",
+		"href": "http://ftp.mozilla.org/pub/mozilla.org/mozilla.org/firefox/releases/9.0b6/win32/en-US/",
+		"subtopic": "Firefox",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Tamil unicode Convertor",
+		"topic": "Miscellaneous",
+		"href": "http://vikku.info/indian-language-unicode-convertor/tamil-unicode-convertor.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Border-radius: create rounded corners with CSS! - CSS3 . Info",
+		"topic": "CSS",
+		"href": "http://www.css3.info/preview/rounded-border/",
+		"subtopic": "css3",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Collapsing Margins",
+		"topic": "CSS",
+		"href": "http://reference.sitepoint.com/css/collapsingmargins",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Internet Explorer Conditional Comments",
+		"topic": "CSS",
+		"href": "http://reference.sitepoint.com/css/conditionalcomments",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Converting HTML code &amp; Displaying html tags in web pages",
+		"topic": "Miscellaneous",
+		"href": "http://www.plus2net.com/html_tutorial/tags-page.php",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Web Design References: Typography",
+		"topic": "CSS",
+		"href": "http://www.d.umn.edu/itss/training/online/webdesign/type.html",
+		"subtopic": "font",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Difference b/w two sentences",
+		"topic": "Miscellaneous",
+		"href": "http://www.quickdiff.com/index.php",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "URL Encoding/Decoding",
+		"topic": "Browsers",
+		"href": "http://www.digitalcoding.com/tools/url-encode-decode.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Check spelling and grammar - Word - Office.com",
+		"topic": "Miscellaneous",
+		"href": "http://office.microsoft.com/en-us/word-help/check-spelling-and-grammar-HP010117963.aspx",
+		"subtopic": "MS-Office",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Using rowspan and colspan in a single cell",
+		"topic": "CSS",
+		"href": "http://www.scriptingmaster.com/html/rowspan-colspan-single-cell.asp",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "MC Media Player Setup Tool",
+		"topic": "Javascript",
+		"href": "http://www.mcmediaplayer.com/setup/index.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "infinite, circular jQuery carousel --- CarouFredSel 4.4.1",
+		"topic": "Javascript",
+		"href": "http://caroufredsel.frebsite.nl/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Gallery - Page 2 | Web Resources | WebAppers",
+		"topic": "Javascript",
+		"href": "http://www.webappers.com/category/components/gallery/page/2/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Convert pdf to image - Convert pdf to jpg - Convert online pdf to image",
+		"topic": "Miscellaneous",
+		"href": "http://www.convertpdftoimage.com/",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Scared of Floats Bug - CSS Bugs - hasLayout.net by Zoffix Znet",
+		"topic": "html",
+		"href": "http://haslayout.net/css/Scared-of-Floats-Bug",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "IE’s Compatibility Features for Site Developers - IEBlog - Site Home - MSDN Blogs",
+		"topic": "Browsers",
+		"href": "https://blogs.msdn.com/b/ie/archive/2010/06/16/ie-s-compatibility-features-for-site-developers.aspx",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Table Layout",
+		"topic": "html",
+		"href": "http://www.w3.org/TR/CSS2/tables.html#width-layout",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "HTML 4.0 Inline Elements",
+		"topic": "html",
+		"href": "http://htmlhelp.com/reference/html40/inline.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Top 6 Internet Explorer Extensions for Web Developers",
+		"topic": "Browsers",
+		"href": "http://sixrevisions.com/tools/internet_explorer_extensions_addons_web_developers/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "HTML Color Picker",
+		"topic": "Miscellaneous",
+		"href": "http://www.w3schools.com/tags/ref_colorpicker.asp",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Notepad++ Keyboard Shortcuts",
+		"topic": "Miscellaneous",
+		"href": "http://www.keyxl.com/aaacd5a/43/Notepad-Plus-text-editor-software-keyboard-shortcuts.htm",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Absolute Path =FWD slash",
+		"topic": "Miscellaneous",
+		"href": "http://publib.boulder.ibm.com/infocenter/aix/v6r1/index.jsp?topic=%2Fcom.ibm.aix.baseadmn%2Fdoc%2Fbaseadmndita%2Fdir_pathnames.htm",
+		"subtopic": "Internet",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "slice javascript - Google Search",
+		"topic": "Javascript",
+		"href": "http://www.google.co.in/search?rlz=1C1_____enUS437US437&aq=f&sourceid=chrome&ie=UTF-8&q=slice+javascript",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "JavaScript indexOf() Method",
+		"topic": "Javascript",
+		"href": "http://www.w3schools.com/jsref/jsref_indexof.asp",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": ".delegate() – jQuery API",
+		"topic": "Javascript",
+		"href": "http://api.jquery.com/delegate/",
+		"subtopic": "jQuery",
+		"createdate": "1390285184",
+		"moddate": "1390285184"
+	},
+	{
+		"title": "Using jQuery with Other Libraries - jQuery JavaScript Library",
+		"topic": "Javascript",
+		"href": "http://docs.jquery.com/Using_jQuery_with_Other_Libraries",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "k-shop doc",
+		"topic": "Javascript",
+		"href": "http://activelamp.com/blog/adding-functions-jquery",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "tricks 25 jquery",
+		"topic": "Javascript",
+		"href": "http://www.tvidesign.co.uk/blog/improve-your-jquery-25-excellent-tips.aspx",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Things you may not know about jQuery – James Padolsey",
+		"topic": "Javascript",
+		"href": "http://james.padolsey.com/javascript/things-you-may-not-know-about-jquery/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Shortcuts for jQuery's ready() method - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/3907527/shortcuts-for-jquerys-ready-method",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Events: Stop (Mis)Using Return False | Fuel Your Coding",
+		"topic": "Javascript",
+		"href": "http://fuelyourcoding.com/jquery-events-stop-misusing-return-false/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Event delegation in JavaScript | NCZOnline",
+		"topic": "Javascript",
+		"href": "http://www.nczonline.net/blog/2009/06/30/event-delegation-in-javascript/",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Javascript - Event order",
+		"topic": "Javascript",
+		"href": "http://www.quirksmode.org/js/events_order.html",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "7 Things I Wish I Had Known About jQuery",
+		"topic": "Javascript",
+		"href": "http://blog.themeforest.net/tutorials/7-things-i-wish-i-had-known-about-jquery/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "In the Woods – Ask JW: Decoding Self-Invoking Anonymous Functions",
+		"topic": "Javascript",
+		"href": "http://blog.themeforest.net/tutorials/ask-jw-decoding-self-invoking-anonymous-functions/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "get value of selected radio",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/986120/how-to-get-select-radiobutton-value-using-its-name-in-jquery",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jquery: event.stopImmediatePropagation() vs return false - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/5302903/jquery-event-stopimmediatepropagation-vs-return-false",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Event Exec Order-Make First",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/2360655/jquery-event-handlers-always-execute-in-order-they-were-bound-any-way-around-t",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Jquery Plugin creation",
+		"topic": "Javascript",
+		"href": "http://net.tutsplus.com/articles/news/you-still-cant-create-a-jquery-plugin/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - Load and execution sequence of a web page? - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/1795438/load-and-execution-sequence-of-a-web-page",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery.extend() – jQuery API",
+		"topic": "Javascript",
+		"href": "http://api.jquery.com/jQuery.extend/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery() – jQuery API",
+		"topic": "Javascript",
+		"href": "http://api.jquery.com/jQuery/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery: Difference between .each and jQuery.each | vijay joshi blog",
+		"topic": "Javascript",
+		"href": "http://www.vijayjoshi.org/2010/11/24/jquery-difference-between-each-and-jquery-each/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Dom Definition By Mozilla",
+		"topic": "html",
+		"href": "https://developer.mozilla.org/en/gecko_dom_reference/introduction#What_is_the_DOM.3f",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "JavaScript Objects",
+		"topic": "Javascript",
+		"href": "http://javascript.crockford.com/private.html",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Java Object Oriented Concepts in Javascript - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/9296085/java-object-oriented-concepts-in-javascript",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Closures in JavaScript",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Jquery Native evnts and Cross Platform event",
+		"topic": "Javascript",
+		"href": "http://www.tutorialspoint.com/jquery/jquery-events.htm",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - How to check browser for touchstart support using JS/jQuery? - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/2915833/how-to-check-browser-for-touchstart-support-using-js-jquery",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "How to align content of a div to the bottom with css? - Stack Overflow",
+		"topic": "CSS",
+		"href": "http://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom-with-css",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Javascript - Mouse Events",
+		"topic": "Javascript",
+		"href": "http://www.quirksmode.org/js/events_mouse.html",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "experiments/javascript/module-pattern.html at master · stevekwan/experiments · GitHub",
+		"topic": "Javascript",
+		"href": "https://github.com/stevekwan/experiments/blob/master/javascript/module-pattern.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "HTTP: The Protocol Every Web Developer Must Know – Part 2 | Nettuts+",
+		"topic": "Miscellaneous",
+		"href": "http://net.tutsplus.com/tutorials/tools-and-tips/http-the-protocol-every-web-developer-must-know-part-2/",
+		"subtopic": "Internet",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Comparison operators - JavaScript | MDN",
+		"topic": "Javascript",
+		"href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators",
+		"subtopic": "Common",
+		"createdate": "1410863525",
+		"moddate": "1410863525"
+	},
+	{
+		"title": "JavaScript pitfalls: null, false, undefined, NaN - MapbenderWiki",
+		"topic": "Javascript",
+		"href": "http://www.mapbender.org/JavaScript_pitfalls:_null,_false,_undefined,_NaN",
+		"subtopic": "Common",
+		"createdate": "1410864037",
+		"moddate": "1410864037"
+	},
+	{
+		"title": "Function Declarations vs. Function Expressions | JavaScript, JavaScript...",
+		"topic": "Javascript",
+		"href": "http://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/",
+		"subtopic": "Common",
+		"createdate": "1417089179",
+		"moddate": "1417089179"
+	},
+	{
+		"title": "Wireframe and Mockups Software - Build Mockup , Wireframes and quick prototypes",
+		"topic": "Miscellaneous",
+		"href": "http://www.mockuptiger.com/",
+		"subtopic": "Online Tools",
+		"createdate": "1425884434",
+		"moddate": "1425884434"
+	},
+	{
+		"title": "OfficeToolTips Word Tip: Increase, decrease and change font size without mouse",
+		"topic": "Miscellaneous",
+		"href": "http://www.officetooltips.com/word/tips/increase__decrease_and_change_font_size_without_mouse.html",
+		"subtopic": "MS-Office",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Tamil Unicode Converter - Convert English to Tamil Unicode - Romanization of Tamil - Romanized latin to Tamil - Indian Language Transliteration",
+		"topic": "Miscellaneous",
+		"href": "http://vikku.info/indian-language-unicode-converter/tamil-unicode-converter.html",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Unicode to Character Entity - Savant Tools - The smartest online tools for digital savants",
+		"topic": "Miscellaneous",
+		"href": "http://savanttools.com/unicode-entity",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Relative Path-info",
+		"topic": "Miscellaneous",
+		"href": "http://www.perlmonks.org/index.pl?node_id=808203",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "1203",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/MyAtt/1203.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AT&amp;T",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/MyATT_3.0/DB-test.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Need just dial chennai number? - Yahoo! Answers",
+		"topic": "Miscellaneous",
+		"href": "http://answers.yahoo.com/question/index?qid=20091022064400AAHVS7Y",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Visual Event",
+		"topic": "Javascript",
+		"href": "javascript:(function()%20{var%20url%20=%20'http://www.sprymedia.co.uk/VisualEvent/VisualEvent_Loader.js';if(%20typeof%20VisualEvent!='undefined'%20)%20{if%20(%20VisualEvent.instance%20!==%20null%20)%20{VisualEvent.close();}else%20{new%20VisualEvent();}}else%20{var%20n=document.createElement('script');n.setAttribute('language','JavaScript');n.setAttribute('src',url+'?rand='+new%20Date().getTime());document.body.appendChild(n);}})();",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Java Version",
+		"topic": "Miscellaneous",
+		"href": "http://javatester.org/version.html",
+		"subtopic": "",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Using HttpWatch to Measure Page Load Times for New and Existing Users | HttpWatch Blog",
+		"topic": "html",
+		"href": "http://blog.httpwatch.com/2008/05/14/using-httpwatch-to-measure-page-load-times-for-new-and-existing-users/",
+		"subtopic": "Performance Tune",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript object, access variable property name? - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/4255472/javascript-object-access-variable-property-name",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Jquery Plugin each and return this.each()",
+		"topic": "Javascript",
+		"href": "http://www.sitepoint.com/how-to-develop-a-jquery-plugin/",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - jQueryPlugin: return this vs return this.each() - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/9643932/jqueryplugin-return-this-vs-return-this-each",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "train seat vacancy status",
+		"topic": "Miscellaneous",
+		"href": "http://www.indianrail.gov.in/dont_Know_Station_Code.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "The Command Line in Windows: Batch file basics",
+		"topic": "Miscellaneous",
+		"href": "http://commandwindows.com/batch.htm",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Ajax Cache control by google books",
+		"topic": "Javascript",
+		"href": "http://books.google.co.in/books?id=JMpEZdy1j5QC&pg=PT69&lpg=PT69&dq=ajax+cache+control+of+browsers&source=bl&ots=EVLUpMPDym&sig=n1S61ge9xIAWh2I5CcyMqpOsBdA&hl=en&sa=X&ei=pSShT_FLgerzBMTKlYgI&ved=0CEcQ6AEwBA#v=onepage&q=ajax%20cache%20control%20of%20browsers&f=false",
+		"subtopic": "ajax",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Tip: Solving the browser caching problem of AJAX applications | Spacebug Open Source Initiative",
+		"topic": "Javascript",
+		"href": "http://spacebug.com/solving_browser_caching_problem_of_ajax-html/",
+		"subtopic": "ajax",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "How to stop Internet Explorer from caching AJAX requests - Code Couch",
+		"topic": "Javascript",
+		"href": "http://www.codecouch.com/2009/01/how-to-stop-internet-explorer-from-caching-ajax-requests/",
+		"subtopic": "ajax",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "html - Using &lt;meta&gt; tags to turn off caching in all browsers? - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/1341089/using-meta-tags-to-turn-off-caching-in-all-browsers",
+		"subtopic": "cache",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Useful HTML Meta Tags - cache, no-cache, robots, refresh, content, keywords, description, expires, author, etc.",
+		"topic": "Browsers",
+		"href": "http://www.i18nguy.com/markup/metatags.html",
+		"subtopic": "cache",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Caching Tutorial for Web Authors and Webmasters",
+		"topic": "Browsers",
+		"href": "http://www.web-caching.com/mnot_tutorial/how.html#CONTROL",
+		"subtopic": "cache",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Solution to AJax Cache problem with Internet Explorer",
+		"topic": "Browsers",
+		"href": "http://www.codemiles.com/ajax/solution-to-ajax-cache-problem-with-internet-explorer-t602.html",
+		"subtopic": "cache",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Caching Tutorial for Web Authors and Webmasters",
+		"topic": "Browsers",
+		"href": "http://www.mnot.net/cache_docs/",
+		"subtopic": "cache",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Hasan Travels",
+		"topic": "Miscellaneous",
+		"href": "http://www.hasantravels.in/",
+		"subtopic": "Travel",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "ONLINE BUS TICKETS BOOKING SERVICE » ONLINE BUS TICKET RESERVATION",
+		"topic": "Miscellaneous",
+		"href": "http://www.redbus.in/",
+		"subtopic": "Travel",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "internet explorer - How to inspect elements inside Iframe using IE Developer toolbar in IE7 - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/3053175/how-to-inspect-elements-inside-iframe-using-ie-developer-toolbar-in-ie7",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Screen Ruler",
+		"topic": "Browsers",
+		"href": "http://wonderwebware.com/screen-ruler/",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "IP Address Resolution",
+		"topic": "Miscellaneous",
+		"href": "http://technet.microsoft.com/en-us/library/bb727005.aspx",
+		"subtopic": "Internet",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - Detect Safari browser - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/7944460/detect-safari-browser",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "IEWatch - help video",
+		"topic": "Browsers",
+		"href": "http://www.iewatch.com/ieprofessional.aspx?id=features",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "English Prepositions Tuts",
+		"topic": "Miscellaneous",
+		"href": "http://www.ego4u.com/en/cram-up/grammar/prepositions",
+		"subtopic": "english",
+		"createdate": "1401288092",
+		"moddate": "1401288092"
+	},
+	{
+		"title": "English Exercises: Articles",
+		"topic": "Miscellaneous",
+		"href": "http://www.englishexercises.org/makeagame/viewgame.asp?id=6231#a",
+		"subtopic": "english",
+		"createdate": "1401289962",
+		"moddate": "1401289962"
+	},
+	{
+		"title": "ESL and EFL Vocabulary Lessons",
+		"topic": "Miscellaneous",
+		"href": "http://www.myenglishpages.com/site_php_files/vocabulary.php#.U4iIL3I13Yn",
+		"subtopic": "english",
+		"createdate": "1401456690",
+		"moddate": "1401456690"
+	},
+	{
+		"title": "Useful English: Overview of Modal Verbs",
+		"topic": "Miscellaneous",
+		"href": "http://usefulenglish.ru/grammar/brief-overview-modal-verbs-and-substitutes",
+		"subtopic": "english",
+		"createdate": "1401540691",
+		"moddate": "1401540691"
+	},
+	{
+		"title": "Useful English: Idioms Short List",
+		"topic": "Miscellaneous",
+		"href": "http://usefulenglish.ru/idioms/everyday-idioms-useful-shortlist",
+		"subtopic": "english",
+		"createdate": "1401969703",
+		"moddate": "1401969703"
+	},
+	{
+		"title": "Useful English: Phrasal Verbs with Postpositions Short List",
+		"topic": "Miscellaneous",
+		"href": "http://usefulenglish.ru/idioms/verbs-with-postpositions-short-list",
+		"subtopic": "english",
+		"createdate": "1401969715",
+		"moddate": "1401969715"
+	},
+	{
+		"title": "Home | Testing made easier in Internet Explorer | modern.IE",
+		"topic": "Browsers",
+		"href": "http://www.modern.ie/en-us",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "userAgents - userAgents.IE",
+		"topic": "Browsers",
+		"href": "http://useragents.ie/UserAgentsList",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Test local and internal servers",
+		"topic": "Browsers",
+		"href": "http://www.browserstack.com/local-testing",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Zen Coding: A Speedy Way To Write HTML/CSS Code | Smashing Coding",
+		"topic": "Miscellaneous",
+		"href": "http://coding.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "zen-coding - Set of plugins for HTML and CSS hi-speed coding - Google Project Hosting",
+		"topic": "Miscellaneous",
+		"href": "https://code.google.com/p/zen-coding/",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "ZenHTMLSelectorsEn - zen-coding - Selectors and aliases for Zen HTML plugins - Set of plugins for HTML and CSS hi-speed coding - Google Project Hosting",
+		"topic": "Miscellaneous",
+		"href": "https://code.google.com/p/zen-coding/wiki/ZenHTMLSelectorsEn",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Global Headers &amp; Footers · Sandbox 3.1",
+		"topic": "Miscellaneous",
+		"href": "http://141.204.55.103:8080/dev/sb3.1/sandboxRS3.1/global-headers-footers.html",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "SourceForge.net: Plugin Central - notepad-plus",
+		"topic": "Miscellaneous",
+		"href": "http://sourceforge.net/apps/mediawiki/notepad-plus/index.php?title=Plugin_Central",
+		"subtopic": "IDE",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "cdnjs - the missing cdn for javascript and css",
+		"topic": "html",
+		"href": "http://cdnjs.com/libraries/lodash.js/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Full property table",
+		"topic": "html",
+		"href": "http://www.w3.org/TR/CSS2/propidx.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Adobe® BrowserLab",
+		"topic": "Browsers",
+		"href": "https://browserlab.adobe.com/en-us/index.html#zoom=100;state=use;browsers=OSXFF1100%2CWXPIE8000%2CWXPIE7000%2CWXPIE9000%2CWXPCH18000;url=http%3A%2F%2Fportalmigration.att.net%2FMyATT_3.0%2FSCREEN-5.0.6-BP-USAGE-WIRELESS-SHARED-VOICE-FAMILYTALK-AND-OR-DATA-PLANS.html;view=1",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Categories of pattern matching characters",
+		"topic": "Javascript",
+		"href": "http://www.javascriptkit.com/javatutors/re2.shtml",
+		"subtopic": "RegEx",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "JavaScript Regular Expressions methods and usage",
+		"topic": "Javascript",
+		"href": "http://www.javascriptkit.com/javatutors/redev3.shtml",
+		"subtopic": "RegEx",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Regular Expressions - JavaScript | MDN",
+		"topic": "Javascript",
+		"href": "https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions",
+		"subtopic": "RegEx",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "The HTML5 test - How well does your browser support HTML5?",
+		"topic": "html",
+		"href": "http://html5test.com/",
+		"subtopic": "html5",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Initializr - Start an HTML5 Boilerplate project in 15 seconds!",
+		"topic": "html",
+		"href": "http://www.initializr.com/",
+		"subtopic": "html5",
+		"createdate": "1396948061",
+		"moddate": "1396948061"
+	},
+	{
+		"title": "Wildcards in Find and Replace",
+		"topic": "Miscellaneous",
+		"href": "http://wordprocessing.about.com/od/wordquicktips/qt/wildcard.htm",
+		"subtopic": "MS-Office",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Wildcard characters - Excel - Office.com",
+		"topic": "Miscellaneous",
+		"href": "http://office.microsoft.com/en-us/excel-help/wildcard-characters-HP005203612.aspx",
+		"subtopic": "MS-Office",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "The Javascript Playground",
+		"topic": "Miscellaneous",
+		"href": "http://javascript.info/play",
+		"subtopic": "Online Tools",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Events and timing in-depth | JavaScript Tutorial",
+		"topic": "Javascript",
+		"href": "http://javascript.info/tutorial/events-and-timing-depth",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Javascript - The this keyword",
+		"topic": "Javascript",
+		"href": "http://www.quirksmode.org/js/this.html",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Events On -Imp",
+		"topic": "Javascript",
+		"href": "http://api.jquery.com/on/",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Events/jQuery.Event - jQuery Wiki",
+		"topic": "Javascript",
+		"href": "http://docs.jquery.com/Events/jQuery.Event",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Using Web Debugging Proxies | Nettuts+",
+		"topic": "Miscellaneous",
+		"href": "http://net.tutsplus.com/tutorials/using-web-debugging-proxies/",
+		"subtopic": "Internet",
+		"createdate": "1390285184",
+		"moddate": "1390285184"
+	},
+	{
+		"title": "new - JavaScript | MDN",
+		"topic": "Javascript",
+		"href": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FOperators%2Fnew",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript : function and object...? - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/5958417/javascript-function-and-object",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Function.apply and Function.call in JavaScript",
+		"topic": "Javascript",
+		"href": "http://odetocode.com/blogs/scott/archive/2007/07/05/function-apply-and-function-call-in-javascript.aspx",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Understanding “Prototypes” in JavaScript « Katz Got Your Tongue?",
+		"topic": "Javascript",
+		"href": "http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "JSONP",
+		"topic": "Javascript",
+		"href": "http://blog.timothyfisher.com/?p=277",
+		"subtopic": "OOJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "The this keyword in JavaScript — Alejandro Beltrán",
+		"topic": "Javascript",
+		"href": "http://alebelcor.github.io/2011/this-keyword-in-javascript/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "5 Great Resources for Learning Javascript Fundamentals",
+		"topic": "Javascript",
+		"href": "http://tobyho.com/2010/11/10/5-great-resources-for-learning/",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Design Patterns on CodePen",
+		"topic": "html",
+		"href": "http://codepen.io/patterns/?mkt_tok=3RkMMJWWfF9wsRonuavLZKXonjHpfsX56eUkXaCzlMI%2F0ER3fOvrPUfGjI4ATsFlI%2BSLDwEYGJlv6SgFTLHGMbdlwLgJWBg%3D",
+		"subtopic": "Common",
+		"createdate": "1418717961",
+		"moddate": "1418717961"
+	},
+	{
+		"title": "Issue 20790 - chromium-os - Implement better password dots - Chromium OS - the open source project behind Google Chrome OS - Google Project Hosting",
+		"topic": "Browsers",
+		"href": "http://code.google.com/p/chromium-os/issues/detail?id=20790",
+		"subtopic": "Common Issues",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Apache Cordova API Documentation",
+		"topic": "Miscellaneous",
+		"href": "http://docs.phonegap.com/en/2.1.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "3 Ways To Run Android Apps On Windows",
+		"topic": "Browsers",
+		"href": "http://www.makeuseof.com/tag/3-ways-run-android-apps-windows/",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Internet Connection",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/4376553/upgraded-to-sdk-2-3-now-no-emulators-have-connectivity/11908514#11908514",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Supporting Different Platform Versions | Android Developers",
+		"topic": "Browsers",
+		"href": "http://developer.android.com/training/basics/supporting-devices/platforms.html",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "How to Test Drive Android on Your PC Without Buying a Phone",
+		"topic": "Browsers",
+		"href": "http://lifehacker.com/5587260/how-to-test-drive-android-on-your-pc-without-buying-a-phone",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "17 useful Keyboard Shortcuts for Android Emulator .",
+		"topic": "Browsers",
+		"href": "http://www.shortcutworld.com/en/win/Android-Emulator.html",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Google Groups",
+		"topic": "Browsers",
+		"href": "https://groups.google.com/forum/#!overview",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "A List Apart: Articles: Fluid Grids",
+		"topic": "CSS",
+		"href": "http://www.alistapart.com/articles/fluidgrids/",
+		"subtopic": "RWD",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Installing the Eclipse Plugin | Android Developers",
+		"topic": "Browsers",
+		"href": "http://developer.android.com/sdk/installing/installing-adt.html",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "screen size in emulators",
+		"topic": "Browsers",
+		"href": "http://developer.android.com/tools/revisions/platforms.html",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Android Versioons",
+		"topic": "Browsers",
+		"href": "http://developer.android.com/about/dashboards/index.html",
+		"subtopic": "Emulator",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "JsTester",
+		"topic": "Javascript",
+		"href": "http://jsfiddle.net/",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "CSS media queries: width versus device-width",
+		"topic": "CSS",
+		"href": "http://www.javascriptkit.com/dhtmltutors/cssmediaqueries2.shtml",
+		"subtopic": "RWD",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile ChangePage alternative - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/11704930/jquery-mobile-changepage-alternative?lq=1",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - Jquery Mobile - $.mobile.changepage not loading external .JS files - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/7449402/jquery-mobile-mobile-changepage-not-loading-external-js-files/7449731#7449731",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile Docs - Configuring default settings",
+		"topic": "Javascript",
+		"href": "http://jquerymobile.com/test/docs/api/globalconfig.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile - binding to pageinit event - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/7729729/jquery-mobile-binding-to-pageinit-event",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "demo page",
+		"topic": "Javascript",
+		"href": "http://apexeleven.com/stackoverflow/document-ready/index.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "CSS3 tutorial to embed custom fonts in web pages",
+		"topic": "CSS",
+		"href": "http://www.imajine.in/tutorials/css/embedfonts.aspx",
+		"subtopic": "css3",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile Docs - Methods",
+		"topic": "Javascript",
+		"href": "http://jquerymobile.com/demos/1.0/docs/api/methods.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile Docs - Events",
+		"topic": "Javascript",
+		"href": "http://jquerymobile.com/test/docs/api/events.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery Mobile Docs - Scripting pages",
+		"topic": "Javascript",
+		"href": "http://jquerymobile.com/demos/1.0/docs/pages/page-scripting.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "iPhone &amp; iPod Detection Using JavaScript",
+		"topic": "Browsers",
+		"href": "http://davidwalsh.name/detect-iphone",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "gradient",
+		"topic": "CSS",
+		"href": "http://www.impressivewebs.com/css3-linear-gradient-syntax/",
+		"subtopic": "css3",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Ever needed a transparent 1x1 PNG pixel? Grab one here!",
+		"topic": "CSS",
+		"href": "http://www.1x1px.me/",
+		"subtopic": "css3",
+		"createdate": "1420208747",
+		"moddate": "1420208747"
+	},
+	{
+		"title": "debugging cordova apps with ...",
+		"topic": "Browsers",
+		"href": "http://muellerware.org/papers/pgday-2012-us/#4",
+		"subtopic": "Common",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "weinre server home",
+		"topic": "Browsers",
+		"href": "http://debug.phonegap.com/",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "weinre: http://portalmigration.att.net/teen-drivers-license/demo/r4.html",
+		"topic": "Browsers",
+		"href": "http://debug.phonegap.com/client/#shmdhussain",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Build For Weinre",
+		"topic": "Browsers",
+		"href": "http://people.apache.org/~pmuellr/weinre/builds/",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Adobe Community: Running your own weinre server",
+		"topic": "Browsers",
+		"href": "http://forums.adobe.com/docs/DOC-2623",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "weinre server home",
+		"topic": "Browsers",
+		"href": "http://localhost:8080/",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "javascript - Variation of e.touches, e.targetTouches and e.changedTouches - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/7056026/variation-of-e-touches-e-targettouches-and-e-changedtouches/7236327#7236327",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jQuery.proxy() usage - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/3349380/jquery-proxy-usage",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Adobe Flash Platform * Touch, multitouch and gesture input",
+		"topic": "Javascript",
+		"href": "http://help.adobe.com/en_US/as3/dev/WSb2ba3b1aad8a27b0-6ffb37601221e58cc29-8000.html",
+		"subtopic": "event",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Mobile HTML5 - compatibility on iPhone, Android, Windows Phone, BlackBerry, Symbian and other mobile and tablet devices",
+		"topic": "html",
+		"href": "http://mobilehtml5.org/",
+		"subtopic": "html5",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "html - jQuery: Get height of hidden element in jQuery - Stack Overflow",
+		"topic": "Javascript",
+		"href": "http://stackoverflow.com/questions/2345784/jquery-get-height-of-hidden-element-in-jquery",
+		"subtopic": "jQuery",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "The Node Beginner Book » A comprehensive Node.js tutorial",
+		"topic": "Javascript",
+		"href": "http://www.nodebeginner.org/#intended-audience",
+		"subtopic": "NodeJs",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "SVG-edit",
+		"topic": "html",
+		"href": "http://svg-edit.googlecode.com/svn/branches/2.6/editor/svg-editor.html",
+		"subtopic": "html5",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Events - Google Maps JavaScript API v3 — Google Developers",
+		"topic": "html",
+		"href": "https://developers.google.com/maps/documentation/javascript/events",
+		"subtopic": "html5",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Alex Rothenberg - The \"Magic\" behind AngularJS Dependency Injection",
+		"topic": "html",
+		"href": "http://www.alexrothenberg.com/2013/02/11/the-magic-behind-angularjs-dependency-injection.html",
+		"subtopic": "html5",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Issues - android - Android Open Source Project - Issue Tracker - Google Project Hosting",
+		"topic": "Browsers",
+		"href": "https://code.google.com/p/android/issues/list",
+		"subtopic": "Debugging",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "tSpace Home Page",
+		"topic": "Miscellaneous",
+		"href": "http://tspace.web.att.com/homepage/web/updates/#imFollowing/all",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Log out - CentralSCM CodeCloud",
+		"topic": "Miscellaneous",
+		"href": "https://codecloud.web.att.com/logout",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "CDE Mobile Sandbox",
+		"topic": "Miscellaneous",
+		"href": "http://141.204.55.103:8080/dev/mobile/sandbox/2.0.1/reference/index.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AT&amp;T",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/Sandbox-1.5-final/Screen-407a.0.0-Check-Number-Status-Landing-Page.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AT&amp;T",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/Sandbox-1.5-final/Screen-407a.0.1-Check-Number-Status-Multiple-Error-Corrections.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "CTAs and Buttons Element examples",
+		"topic": "Miscellaneous",
+		"href": "http://141.204.55.103:8080/dev/mobile/sandbox/2.0.1/examples/cta.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "GradientFinder - Convert your Images into CSS Gradients",
+		"topic": "Miscellaneous",
+		"href": "http://gradientfinder.com/",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "PM mEOS",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/Mob1st_RWD/mEOS/INDEX.HTML",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Order List 5 Plus Orders",
+		"topic": "Miscellaneous",
+		"href": "http://portalmigration.att.net/Mob1st_RWD/mEOS/Order-List-Page-5-Plus-Orders.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Bootstrap Home",
+		"topic": "CSS",
+		"href": "http://twitter.github.io/bootstrap/",
+		"subtopic": "tb",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Customizing Bootstrap | Smashing Coding",
+		"topic": "CSS",
+		"href": "http://coding.smashingmagazine.com/2013/03/12/customizing-bootstrap/",
+		"subtopic": "tb",
+		"createdate": "1391592301",
+		"moddate": "1391592301"
+	},
+	{
+		"title": "Forms · Sandbox 3.2",
+		"topic": "Miscellaneous",
+		"href": "http://intranet.att.com/isdcs/sandboxRS/sandboxRS3_2/forms.html",
+		"subtopic": "infy",
+		"createdate": "1404206633",
+		"moddate": "1404206633"
+	},
+	{
+		"title": "Grid displayer",
+		"topic": "CSS",
+		"href": "javascript:(function()%20{%20%20%20var%20head%20=%20document.getElementsByTagName(\"head\")[0];%20%20%20var%20bklScript%20=%20document.createElement(\"script\");%20%20%20bklScript.type%20=%20\"text/javascript\";%20%20%20bklScript.src%20=%20\"http://alefeuvre.github.com/foundation-grid-displayer/gd-bookmarklet.min.js\";%20%20%20head.appendChild(bklScript);%20})();",
+		"subtopic": "tb",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AngularJS: API Reference",
+		"topic": "Javascript",
+		"href": "http://docs.angularjs.org/api",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AngularJS: Conceptual Overview",
+		"topic": "Javascript",
+		"href": "http://docs.angularjs.org/guide/concepts",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AngularJS: Getting Started",
+		"topic": "Javascript",
+		"href": "http://docs.angularjs.org/misc/started",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "jmcunningham/AngularJS-Learning",
+		"topic": "Javascript",
+		"href": "https://github.com/jmcunningham/AngularJS-Learning",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Nested Scopes in AngularJS — Jim Hoskins",
+		"topic": "Javascript",
+		"href": "http://jimhoskins.com/2012/12/14/nested-scopes-in-angularjs.html",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Introduction to Directives",
+		"topic": "Javascript",
+		"href": "http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html",
+		"subtopic": "AngularJS",
+		"createdate": "1390285178",
+		"moddate": "1390285178"
+	},
+	{
+		"title": "Excellent $watch how the $apply runs a $digest - Angular Tips",
+		"topic": "Javascript",
+		"href": "http://angular-tips.com/blog/2013/08/watch-how-the-apply-runs-a-digest/",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "understanding service types - Angular Tips",
+		"topic": "Javascript",
+		"href": "http://angular-tips.com/blog/2013/08/understanding-service-types/",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "How to use JSON (JavaScript Object Notation) - O'Reilly Answers",
+		"topic": "Javascript",
+		"href": "http://answers.oreilly.com/topic/2161-how-to-use-json-javascript-object-notation/",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "AngularJS Directives Tutorial - Fundoo Solutions : Fundoo Solutions",
+		"topic": "Javascript",
+		"href": "http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Difference between Service, Factory and Provider in AngularJS",
+		"topic": "Javascript",
+		"href": "https://gist.github.com/Mithrandir0x/3639232",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Understanding Scopes · angular/angular.js Wiki · GitHub",
+		"topic": "Javascript",
+		"href": "https://github.com/angular/angular.js/wiki/Understanding-Scopes",
+		"subtopic": "AngularJS",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Consuming services - Angular Tips",
+		"topic": "Javascript",
+		"href": "http://angular-tips.com/blog/2013/08/consuming-services/",
+		"subtopic": "AngularJS",
+		"createdate": "1392117040",
+		"moddate": "1392117040"
+	},
+	{
+		"title": "AngularJS Modularization &amp; Dependency Injection",
+		"topic": "Javascript",
+		"href": "http://tutorials.jenkov.com/angularjs/dependency-injection.html",
+		"subtopic": "AngularJS",
+		"createdate": "1403606668",
+		"moddate": "1403606668"
+	},
+	{
+		"title": "Browser Screenshots for Quick Testing - 300+ Real Browsers, Internet Explorer 6-10, Local Testing, API, Resolution Options.",
+		"topic": "Javascript",
+		"href": "http://www.browserstack.com/screenshots",
+		"subtopic": "AngularJS",
+		"createdate": "1426479530",
+		"moddate": "1426479530"
+	},
+	{
+		"title": "Angular directives for Bootstrap",
+		"topic": "Javascript",
+		"href": "http://angular-ui.github.io/bootstrap/#/datepicker",
+		"subtopic": "AngularJS",
+		"createdate": "1411670849",
+		"moddate": "1411670849"
+	},
+	{
+		"title": "AngularJS: Developer Guide: Directives",
+		"topic": "Javascript",
+		"href": "https://docs.angularjs.org/guide/directive",
+		"subtopic": "AngularJS",
+		"createdate": "1418818010",
+		"moddate": "1418818010"
+	},
+	{
+		"title": "Index of /1.3.0/",
+		"topic": "Javascript",
+		"href": "https://code.angularjs.org/1.3.0/",
+		"subtopic": "AngularJS",
+		"createdate": "1419935779",
+		"moddate": "1419935779"
+	},
+	{
+		"title": "AngularJS: Developer Guide: Scopes",
+		"topic": "Javascript",
+		"href": "https://docs.angularjs.org/guide/scope",
+		"subtopic": "AngularJS",
+		"createdate": "1427906808",
+		"moddate": "1427906808"
+	},
+	{
+		"title": "HTML Repository",
+		"topic": "Miscellaneous",
+		"href": "http://portal5.stage.att.net/Html_Repository/Html_Repository.html",
+		"subtopic": "infy",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	},
+	{
+		"title": "Service Desk Toolkit",
+		"topic": "Miscellaneous",
+		"href": "http://servicedesk.it.att.com/toolkit/cdt/frame/framedcontent.cfm?page=http://ushportal.it.att.com/step1.cfm",
+		"subtopic": "infy",
+		"createdate": "1390832674",
+		"moddate": "1390832674"
+	},
+	{
+		"title": "AT&amp;T Connect Srini Bridge",
+		"topic": "Miscellaneous",
+		"href": "https://connect5.uc.att.com/EventEntry/Websites/?VaccId=attinc1&ExEventID=85697564",
+		"subtopic": "infy",
+		"createdate": "1391679532",
+		"moddate": "1391679532"
+	},
+	{
+		"title": "CIP Home",
+		"topic": "Miscellaneous",
+		"href": "https://cpst.web.att.com/cip/#/home",
+		"subtopic": "infy",
+		"createdate": "1425980278",
+		"moddate": "1425980278"
+	},
+	{
+		"title": "Adobe Inspire Magazine | April 2013",
+		"topic": "Miscellaneous",
+		"href": "http://www.adobe.com/inspire.html",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "XML Namespaces",
+		"topic": "html",
+		"href": "http://www.w3schools.com/XML/xml_namespaces.asp",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "background-position-percent",
+		"topic": "CSS",
+		"href": "http://www.communitymx.com/content/article.cfm?cid=afc58",
+		"subtopic": "Background Image",
+		"createdate": "1393246197",
+		"moddate": "1393246197"
+	},
+	{
+		"title": "CSS: Using Percentages in Background-Image",
+		"topic": "CSS",
+		"href": "http://www.sitepoint.com/css-using-percentages-in-background-image/",
+		"subtopic": "Background Image",
+		"createdate": "1393246840",
+		"moddate": "1393246840"
+	},
+	{
+		"title": "SpriteMe",
+		"topic": "CSS",
+		"href": "javascript:(function(){var%20spritemejs=document.createElement('SCRIPT');spritemejs.type='text/javascript';spritemejs.src='http://spriteme.org/spriteme.js';document.getElementsByTagName('head')[0].appendChild(spritemejs);})();",
+		"subtopic": "Background Image",
+		"createdate": "1410773197",
+		"moddate": "1410773197"
+	},
+	{
+		"title": "Register",
+		"topic": "Miscellaneous",
+		"href": "https://www.att.com/olam/registrationAction.olamexecute",
+		"subtopic": "infy",
+		"createdate": "1405938409",
+		"moddate": "1405938409"
+	},
+	{
+		"title": "Authoring development workflow - Google Chrome",
+		"topic": "html",
+		"href": "https://developer.chrome.com/devtools/docs/authoring-development-workflow",
+		"subtopic": "Common",
+		"createdate": "1411212503",
+		"moddate": "1411212503"
+	},
+	{
+		"title": "Debugging JavaScript - Google Chrome",
+		"topic": "Browsers",
+		"href": "https://developer.chrome.com/devtools/docs/javascript-debugging#source-maps",
+		"subtopic": "Debugging",
+		"createdate": "1411221392",
+		"moddate": "1411221392"
+	},
+	{
+		"title": "Types | jQuery API Documentation",
+		"topic": "Javascript",
+		"href": "http://api.jquery.com/Types/#Selector",
+		"subtopic": "jQuery",
+		"createdate": "1413817022",
+		"moddate": "1413817022"
+	},
+	{
+		"title": "Count the number of rules and selectors for CSS files on the page. Flags up the &gt;4096 threshold that confuses IE",
+		"topic": "CSS",
+		"href": "https://gist.github.com/psebborn/1885511",
+		"subtopic": "Performance Tune",
+		"createdate": "1415354726",
+		"moddate": "1415354726"
+	},
+	{
+		"title": "Syntax and basic data types",
+		"topic": "CSS",
+		"href": "http://www.w3.org/TR/CSS21/syndata.html#color-units",
+		"subtopic": "Common",
+		"createdate": "1427268227",
+		"moddate": "1427268227"
+	},
+	{
+		"title": "CSS Sprites: What They Are, Why They're Cool, and How To Use Them | CSS-Tricks",
+		"topic": "CSS",
+		"href": "http://css-tricks.com/css-sprites/",
+		"subtopic": "Common",
+		"createdate": "1424861735",
+		"moddate": "1424861735"
+	},
+	{
+		"title": "Invisible animation — Medium",
+		"topic": "CSS",
+		"href": "https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5",
+		"subtopic": "css3",
+		"createdate": "1425365007",
+		"moddate": "1425365007"
+	},
+	{
+		"title": "What CSS prefixes should I use?",
+		"topic": "CSS",
+		"href": "http://shouldiprefix.com/",
+		"subtopic": "css3",
+		"createdate": "1425983625",
+		"moddate": "1425983625"
+	},
+	{
+		"title": "Transforms - Learn to Code Advanced HTML &amp; CSS",
+		"topic": "CSS",
+		"href": "http://learn.shayhowe.com/advanced-html-css/css-transforms/",
+		"subtopic": "css3",
+		"createdate": "1430537989",
+		"moddate": "1430537989"
+	},
+	{
+		"title": "Bower - Search",
+		"topic": "Javascript",
+		"href": "http://bower.io/search/",
+		"subtopic": "NodeJs",
+		"createdate": "1425040252",
+		"moddate": "1425040252"
+	},
+	{
+		"title": "Mobile-Friendly Test",
+		"topic": "Browsers",
+		"href": "https://www.google.com/webmasters/tools/mobile-friendly/?utm_source=wmc-blog&utm_medium=referral&utm_campaign=mobile-friendly&url=https%3A%2F%2Fm.att.com%2Fcheckorder%2F%23%2F",
+		"subtopic": "Emulator",
+		"createdate": "1425112029",
+		"moddate": "1425112029"
+	},
+	{
+		"title": "All you need to master Dev, IT and Creative Design skills | LearnNowOnline",
+		"topic": "html",
+		"href": "http://www.learnnowonline.com/",
+		"subtopic": "Common",
+		"createdate": "1425449616",
+		"moddate": "1425449616"
+	},
+	{
+		"title": "JSON: What It Is, How It Works, &amp; How to Use It",
+		"topic": "Javascript",
+		"href": "http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/",
+		"subtopic": "OOJS",
+		"createdate": "1425452551",
+		"moddate": "1425452551"
+	},
+	{
+		"title": "3 ways to define a JavaScript class / Stoyan's phpied.com",
+		"topic": "Javascript",
+		"href": "http://www.phpied.com/3-ways-to-define-a-javascript-class/",
+		"subtopic": "OOJS",
+		"createdate": "1425544340",
+		"moddate": "1425544340"
+	},
+	{
+		"title": "The basics of variable scope in JavaScript",
+		"topic": "Javascript",
+		"href": "https://www.codepunker.com/blog/the-basics-of-variable-scope-in-javascript",
+		"subtopic": "scope",
+		"createdate": "1430296254",
+		"moddate": "1430296254"
+	},
+	{
+		"title": "10 Completely Free Wireframe and Mockup Applications - Speckyboy Web Design Magazine",
+		"topic": "Miscellaneous",
+		"href": "http://speckyboy.com/2010/01/11/10-completely-free-wireframe-and-mockup-applications/",
+		"subtopic": "Online Tools",
+		"createdate": "1425884431",
+		"moddate": "1425884431"
+	},
+	{
+		"title": "Mockingbird",
+		"topic": "Miscellaneous",
+		"href": "https://gomockingbird.com/mockingbird/#",
+		"subtopic": "Online Tools",
+		"createdate": "1425889211",
+		"moddate": "1425889211"
+	},
+	{
+		"title": "wordmark.it - helps you choose fonts!",
+		"topic": "Miscellaneous",
+		"href": "http://wordmark.it/",
+		"subtopic": "Online Tools",
+		"createdate": "1426053878",
+		"moddate": "1426053878"
+	},
+	{
+		"title": "Source maps: languages, tools and other info · ryanseddon/source-map Wiki",
+		"topic": "Javascript",
+		"href": "https://github.com/ryanseddon/source-map/wiki/Source-maps%3A-languages,-tools-and-other-info",
+		"subtopic": "Debugging",
+		"createdate": "1425893290",
+		"moddate": "1425893290"
+	},
+	{
+		"title": "MyQuickies",
+		"topic": "Miscellaneous",
+		"href": "http://shmdhussain.github.io/MyQuickies/app/index.html",
+		"subtopic": "github",
+		"createdate": "1426005294",
+		"moddate": "1426005294"
+	},
+	{
+		"title": "Information about Internet Explorer versions",
+		"topic": "Browsers",
+		"href": "http://support.microsoft.com/en-us/kb/969393",
+		"subtopic": "Common Issues",
+		"createdate": "1426261455",
+		"moddate": "1426261455"
+	},
+	{
+		"title": "browser - Why doesn't Internet Explorer 11 honour conditional comments even when emulating Internet Explorer 8 document mode? - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/19446584/why-doesnt-internet-explorer-11-honour-conditional-comments-even-when-emulating",
+		"subtopic": "Common Issues",
+		"createdate": "1426261538",
+		"moddate": "1426261538"
+	},
+	{
+		"title": "What is Enterprise Mode?",
+		"topic": "Browsers",
+		"href": "https://msdn.microsoft.com/en-us/library/dn640687.aspx",
+		"subtopic": "Common Issues",
+		"createdate": "1426262449",
+		"moddate": "1426262449"
+	},
+	{
+		"title": "Configuring the Viewport",
+		"topic": "Browsers",
+		"href": "https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/UsingtheViewport/UsingtheViewport.html",
+		"subtopic": "zoom",
+		"createdate": "1427287960",
+		"moddate": "1427287960"
+	},
+	{
+		"title": "Mobile events - resize",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/dom/events/resize_mobile.html",
+		"subtopic": "zoom",
+		"createdate": "1427287992",
+		"moddate": "1427287992"
+	},
+	{
+		"title": "Events - resize -Desktop",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/dom/events/resize.html",
+		"subtopic": "zoom",
+		"createdate": "1427288041",
+		"moddate": "1427288041"
+	},
+	{
+		"title": "Event compatibility tables",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/dom/events/index.html",
+		"subtopic": "zoom",
+		"createdate": "1427288080",
+		"moddate": "1427288080"
+	},
+	{
+		"title": "Event compatibility - mobile",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/dom/events/index_mobile.html",
+		"subtopic": "zoom",
+		"createdate": "1427288139",
+		"moddate": "1427288139"
+	},
+	{
+		"title": "QuirksBlog - Mobile",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/blog/archives/mobile/index.html",
+		"subtopic": "zoom",
+		"createdate": "1427292705",
+		"moddate": "1427292705"
+	},
+	{
+		"title": "Meta viewport",
+		"topic": "Browsers",
+		"href": "http://www.quirksmode.org/mobile/metaviewport/",
+		"subtopic": "zoom",
+		"createdate": "1427293997",
+		"moddate": "1427293997"
+	},
+	{
+		"title": "RegexOne - Learn Regular Expressions - Lesson 2: The Dot",
+		"topic": "Javascript",
+		"href": "http://regexone.com/lesson/2",
+		"subtopic": "RegEx",
+		"createdate": "1426061952",
+		"moddate": "1426061952"
+	},
+	{
+		"title": "Introduction to fetch()",
+		"topic": "html",
+		"href": "http://updates.html5rocks.com/2015/03/introduction-to-fetch",
+		"subtopic": "html5",
+		"createdate": "1426221708",
+		"moddate": "1426221708"
+	},
+	{
+		"title": "JavaScript Promises: There and back again - HTML5 Rocks",
+		"topic": "html",
+		"href": "http://www.html5rocks.com/en/tutorials/es6/promises/#toc-async",
+		"subtopic": "html5",
+		"createdate": "1426221946",
+		"moddate": "1426221946"
+	},
+	{
+		"title": "Work: SCALGO Website / Shannon Mølhave / LeftyDesigner",
+		"topic": "Miscellaneous",
+		"href": "http://leftydesigner.com/work-scalgosite.php#desktop",
+		"subtopic": "Common",
+		"createdate": "1426568622",
+		"moddate": "1426568622"
+	},
+	{
+		"title": "CSS Triggers...",
+		"topic": "CSS",
+		"href": "http://csstriggers.com/",
+		"subtopic": "Common",
+		"createdate": "1427783721",
+		"moddate": "1427783721"
+	},
+	{
+		"title": "Turn Off Auto-Hyperlinking in Excel 2007 &amp; Excel 2010 | the MOST",
+		"topic": "Miscellaneous",
+		"href": "http://blogs.mccombs.utexas.edu/the-most/2010/09/24/turn-off-auto-hyperlinking-in-excel-2007/",
+		"subtopic": "MS-Office",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "min js to non min",
+		"topic": "Miscellaneous",
+		"href": "http://jsbeautifier.org/",
+		"subtopic": "Online Tools",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Displaying a numeric keypad in the browser",
+		"topic": "Browsers",
+		"href": "http://social.msdn.microsoft.com/forums/en-us/wpdevelop/thread/7874d872-dfab-41ea-8b24-3e69c3434c4b",
+		"subtopic": "Common",
+		"createdate": "1389093252",
+		"moddate": "1389093252"
+	},
+	{
+		"title": "The Windows Blog",
+		"topic": "Browsers",
+		"href": "http://blogs.windows.com/windows_phone/b/wpdev/",
+		"subtopic": "Common",
+		"createdate": "1389093252",
+		"moddate": "1389093252"
+	},
+	{
+		"title": "Windows Phone SDK 7.1 Training Course",
+		"topic": "Browsers",
+		"href": "http://msdn.microsoft.com/en-us/WindowsPhoneTrainingCourse",
+		"subtopic": "Common",
+		"createdate": "1389093252",
+		"moddate": "1389093252"
+	},
+	{
+		"title": "Forms (Windows)",
+		"topic": "Browsers",
+		"href": "http://msdn.microsoft.com/en-us/library/ie/hh673544%28v=vs.85%29.aspx",
+		"subtopic": "Common",
+		"createdate": "1389093252",
+		"moddate": "1389093252"
+	},
+	{
+		"title": "internet explorer 9 - Numeric keypad in Windows Phone 7.5 browser - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/13474229/numeric-keypad-in-windows-phone-7-5-browser/13474388#13474388",
+		"subtopic": "Common Issues",
+		"createdate": "1389093252",
+		"moddate": "1389093252"
+	},
+	{
+		"title": "How can I find out which graphics card I have in my PC? - SketchUp Help",
+		"topic": "Miscellaneous",
+		"href": "http://support.google.com/sketchup/bin/answer.py?hl=en&answer=36253",
+		"subtopic": "Online Tools",
+		"createdate": "1389093260",
+		"moddate": "1389093260"
+	},
+	{
+		"title": "3 Semantics, structure, and APIs of HTML documents — HTML 5.1 Nightly",
+		"topic": "html",
+		"href": "http://www.w3.org/html/wg/drafts/html/master/dom.html#wai-aria",
+		"subtopic": "Web Accessibility",
+		"createdate": "1404993610",
+		"moddate": "1404993610"
+	},
+	{
+		"title": "Accessibility (a11y) - Google Chrome",
+		"topic": "html",
+		"href": "https://developer.chrome.com/apps/a11y#examples",
+		"subtopic": "Web Accessibility",
+		"createdate": "1404993632",
+		"moddate": "1404993632"
+	},
+	{
+		"title": "Guides – NVDA Community",
+		"topic": "html",
+		"href": "http://community.nvda-project.org/wiki/Guides",
+		"subtopic": "Web Accessibility",
+		"createdate": "1406117927",
+		"moddate": "1406117927"
+	},
+	{
+		"title": "ARIA in HTML",
+		"topic": "html",
+		"href": "https://specs.webplatform.org/html-aria/webspecs/master/#index-aria-global",
+		"subtopic": "Web Accessibility",
+		"createdate": "1426497221",
+		"moddate": "1426497221"
+	},
+	{
+		"title": "WorldSpace Web Accessibility Validation",
+		"topic": "html",
+		"href": "https://wsatt.dequecloud.com/FireEyes/login/auth;jsessionid=753382B6ACEFA037BD2FFCB3432BDC2D",
+		"subtopic": "Web Accessibility",
+		"createdate": "1426774718",
+		"moddate": "1426774718"
+	},
+	{
+		"title": "Forms in HTML documents",
+		"topic": "html",
+		"href": "http://www.w3.org/TR/html401/interact/forms.html#tabbing-navigation",
+		"subtopic": "Web Accessibility",
+		"createdate": "1427203543",
+		"moddate": "1427203543"
+	},
+	{
+		"title": "How to create an Outlook template for emails",
+		"topic": "Miscellaneous",
+		"href": "http://www.outlook-apps.com/outlook-template-emails/#!prettyPhoto",
+		"subtopic": "MS-Office",
+		"createdate": "1410187064",
+		"moddate": "1410187064"
+	},
+	{
+		"title": "How to create an Outlook template for emails",
+		"topic": "Miscellaneous",
+		"href": "http://www.outlook-apps.com/outlook-template-emails/",
+		"subtopic": "MS-Office",
+		"createdate": "1410187079",
+		"moddate": "1410187079"
+	},
+	{
+		"title": "[How To] Tip: Install multiple versions of Firefox to test before upgrading to latest release | Reviews, news, tips, and tricks | dotTechdotTech",
+		"topic": "Browsers",
+		"href": "http://dottech.org/25506/how-to-tip-install-multiple-versions-of-firefox-to-test-before-upgrading-to-latest-release/",
+		"subtopic": "Firefox",
+		"createdate": "1395766621",
+		"moddate": "1395766621"
+	},
+	{
+		"title": "FTP Listing of /pub/firefox/releases/ at ftp.mozilla.org",
+		"topic": "Browsers",
+		"href": "ftp://ftp.mozilla.org/pub/firefox/releases/",
+		"subtopic": "Firefox",
+		"createdate": "1395766658",
+		"moddate": "1395766658"
+	},
+	{
+		"title": "Home - Browserscope",
+		"topic": "html",
+		"href": "http://www.browserscope.org/?category=network",
+		"subtopic": "Common",
+		"createdate": "1395674420",
+		"moddate": "1395674420"
+	},
+	{
+		"title": "Webmaster Tools - Home",
+		"topic": "html",
+		"href": "https://www.google.com/webmasters/tools/home?hl=en",
+		"subtopic": "Common",
+		"createdate": "1395674450",
+		"moddate": "1395674450"
+	},
+	{
+		"title": "Minimize round-trip times - Make the Web Faster — Google Developers",
+		"topic": "html",
+		"href": "https://developers.google.com/speed/docs/best-practices/rtt#AvoidCssImport",
+		"subtopic": "Performance Tune",
+		"createdate": "1395674462",
+		"moddate": "1395674462"
+	},
+	{
+		"title": "Front-end Code Standards &amp;amp; Best Practices | Isobar",
+		"topic": "html",
+		"href": "http://isobar-idev.github.io/code-standards/",
+		"subtopic": "Performance Tune",
+		"createdate": "1423660365",
+		"moddate": "1423660365"
+	},
+	{
+		"title": "Performance Calendar » CSS Selector Performance has changed! (For the better)",
+		"topic": "CSS",
+		"href": "http://calendar.perfplanet.com/2011/css-selector-performance-has-changed-for-the-better/",
+		"subtopic": "Common",
+		"createdate": "1423661008",
+		"moddate": "1423661008"
+	},
+	{
+		"title": "CSS: Specificity Wars | And all that Malarkey",
+		"topic": "CSS",
+		"href": "http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html",
+		"subtopic": "Common",
+		"createdate": "1423661282",
+		"moddate": "1423661282"
+	},
+	{
+		"title": "peterkeating/grunt-csscss",
+		"topic": "Javascript",
+		"href": "https://github.com/peterkeating/grunt-csscss",
+		"subtopic": "NodeJs",
+		"createdate": "1427786656",
+		"moddate": "1427786656"
+	},
+	{
+		"title": "Git - gitignore Documentation",
+		"topic": "Miscellaneous",
+		"href": "http://git-scm.com/docs/gitignore",
+		"subtopic": "GIT",
+		"createdate": "1423897831",
+		"moddate": "1423897831"
+	},
+	{
+		"title": "StrongLoop | Use Grunt.js and the Power of JavaScript to Automating Repetitive Tasks",
+		"topic": "Javascript",
+		"href": "http://strongloop.com/strongblog/use-grunt-js-and-the-power-of-javascript-to-automating-repetitive-tasks/",
+		"subtopic": "NodeJs",
+		"createdate": "1390458889",
+		"moddate": "1390458889"
+	},
+	{
+		"title": "Plugins - Grunt: The JavaScript Task Runner",
+		"topic": "Javascript",
+		"href": "http://gruntjs.com/plugins",
+		"subtopic": "NodeJs",
+		"createdate": "1390916863",
+		"moddate": "1390916863"
+	},
+	{
+		"title": "HTML5 accessibility - September 2012",
+		"topic": "html",
+		"href": "http://html5accessibility.com/",
+		"subtopic": "Web Accessibility",
+		"createdate": "1390282348",
+		"moddate": "1390282348"
+	},
+	{
+		"title": "The Paciello Group Blog | Your Accessibility PartnerThe Paciello Group Blog | Your Accessibility Partner",
+		"topic": "html",
+		"href": "http://blog.paciellogroup.com/",
+		"subtopic": "Web Accessibility",
+		"createdate": "1390285178",
+		"moddate": "1390285178"
+	},
+	{
+		"title": "ARIA tutorials / blog posts",
+		"topic": "html",
+		"href": "http://accessibility.athena-ict.com/aria/aria-accessibility-tutorials.shtml",
+		"subtopic": "Web Accessibility",
+		"createdate": "1413816581",
+		"moddate": "1413816581"
+	},
+	{
+		"title": "Skilldrick » Closures explained with JavaScript",
+		"topic": "Javascript",
+		"href": "http://skilldrick.co.uk/2011/04/closures-explained-with-javascript/",
+		"subtopic": "scope",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Ben Alman » Immediately-Invoked Function Expression (IIFE)",
+		"topic": "Javascript",
+		"href": "http://benalman.com/news/2010/11/immediately-invoked-function-expression/",
+		"subtopic": "scope",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "TinyPic - Free Image Hosting, Photo Sharing &amp; Video Hosting",
+		"topic": "Miscellaneous",
+		"href": "http://tinypic.com/?t=postupload",
+		"subtopic": "Online Tools",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Need to un-zoom after interacting with selection list · Issue #2069 · jquery/jquery-mobile",
+		"topic": "Browsers",
+		"href": "https://github.com/jquery/jquery-mobile/issues/2069",
+		"subtopic": "zoom",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "javascript - Prevent iPhone from zooming in on `select` in web-app - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/6483425/prevent-iphone-from-zooming-in-on-select-in-web-app",
+		"subtopic": "zoom",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Enable/disable zoom on iPhone safari with Javascript? - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/2750028/enable-disable-zoom-on-iphone-safari-with-javascript/3357148#3357148",
+		"subtopic": "zoom",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "html - Disable Auto Zoom in Input \"Text\" tag - Safari on iPhone - Stack Overflow",
+		"topic": "Browsers",
+		"href": "http://stackoverflow.com/questions/2989263/disable-auto-zoom-in-input-text-tag-safari-on-iphone",
+		"subtopic": "Common Issues",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Iphone Safari Auto-zooms on Input selection · Issue #2159 · twitter/bootstrap",
+		"topic": "Browsers",
+		"href": "https://github.com/twitter/bootstrap/issues/2159",
+		"subtopic": "Common Issues",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Git - What a Branch Is",
+		"topic": "Miscellaneous",
+		"href": "http://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is",
+		"subtopic": "GIT",
+		"createdate": "1423132582",
+		"moddate": "1423132582"
+	},
+	{
+		"title": "Internet Options Shortcut - Create - Windows 7 Help Forums",
+		"topic": "Miscellaneous",
+		"href": "http://www.sevenforums.com/tutorials/24072-internet-options-shortcut-create.html",
+		"subtopic": "Common",
+		"createdate": "1389267558",
+		"moddate": "1389267558"
+	},
+	{
+		"title": "Indian Railways - Train Information - Real Time",
+		"topic": "Miscellaneous",
+		"href": "http://www.trainenquiry.com/CurrentRunningTrain.aspx",
+		"subtopic": "Travel",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Canvas tutorial - HTML | MDN",
+		"topic": "html",
+		"href": "https://developer.mozilla.org/en-US/docs/HTML/Canvas/Tutorial",
+		"subtopic": "html5",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Mobile Web &amp; HTML5 for mobile devices analysis, news and source code",
+		"topic": "Browsers",
+		"href": "http://www.mobilexweb.com/",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "History API - Dive Into HTML5",
+		"topic": "html",
+		"href": "http://diveintohtml5.info/history.html",
+		"subtopic": "html5",
+		"createdate": "1390824575",
+		"moddate": "1390824575"
+	},
+	{
+		"title": "Latest trends",
+		"topic": "html",
+		"href": "http://movethewebforward.org/",
+		"subtopic": "html5",
+		"createdate": "1390285100",
+		"moddate": "1390285100"
+	},
+	{
+		"title": "html5 - Converting Canvas element to Image and storing in database - Stack Overflow",
+		"topic": "html",
+		"href": "http://stackoverflow.com/questions/9493947/converting-canvas-element-to-image-and-storing-in-database",
+		"subtopic": "html5",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Optimizing Performance for Windows Phone Emulator",
+		"topic": "Browsers",
+		"href": "http://msdn.microsoft.com/en-us/library/ff402567%28v=vs.92%29.aspx",
+		"subtopic": "Emulator",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Setup and System Requirements for Windows Phone Emulator",
+		"topic": "Browsers",
+		"href": "http://msdn.microsoft.com/en-us/library/ff626524(v=vs.92).aspx#BKMK_DirectX",
+		"subtopic": "Emulator",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "On having layout — the concept of hasLayout in IE/Win",
+		"topic": "CSS",
+		"href": "http://www.satzansatz.de/cssd/onhavinglayout.html",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Oracle Database 11g Express Edition Part 1",
+		"topic": "Miscellaneous",
+		"href": "http://www.oracle.com/webfolder/technetwork/tutorials/tutorial/db/11g/r2/xe_revised/player.html",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "oracle10g - Install Oracle on my vista desktop - Stack Overflow",
+		"topic": "Miscellaneous",
+		"href": "http://stackoverflow.com/questions/2091432/install-oracle-on-my-vista-desktop",
+		"subtopic": "Common",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Safari on iPhone Tools Coding How-To's",
+		"topic": "Javascript",
+		"href": "http://developer.apple.com/library/safari/#codinghowtos/Mobile/Tools/_index.html",
+		"subtopic": "Debugging",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "Indian Railways - Trains &amp; Stations Information - Real Time",
+		"topic": "Miscellaneous",
+		"href": "http://www.trainenquiry.com/",
+		"subtopic": "Travel",
+		"createdate": "1389093270",
+		"moddate": "1389093270"
+	},
+	{
+		"title": "jQuery Mobile Docs - Methods",
+		"topic": "Javascript",
+		"href": "http://jquerymobile.com/demos/1.0a4.1/docs/pages/docs-navmodel.html#../../docs/api/methods.html",
+		"subtopic": "jQuery Mobile",
+		"createdate": "1389093133",
+		"moddate": "1389093133"
+	}]
+}

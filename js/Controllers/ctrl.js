@@ -9,11 +9,17 @@ myApp.controller('parentCtrl',['$scope','$window','$location',function ($scope,$
 }]);
 
 
-myApp.controller("headCtrl", function($scope, $routeParams,mydata) {
+myApp.controller("headCtrl", function($scope, $routeParams,mydata,$location) {
 	console.log("headCtrl");
 	mydata.gettopicdata().then(function(data){
 		$scope.topicData=data;
 	});
+	
+	var value=$location.path().substring(1);
+	value=value.match(/\w+\/?/i);
+	$scope.pagetitle={};
+	$scope.pagetitle.val=value[0];
+	console.log("$scope.pagetitle: "+$scope.pagetitle.val);
 });
 
 
