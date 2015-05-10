@@ -2,20 +2,10 @@
 <div class="bookHead" id="content" tabindex="-1">
   <div class="container">
 	<h1>HTML</h1>
-	<p></p>
+	<p>HTML5, Web Accessibility, Performance Tuning and more...</p>
   </div>
 </div>
 
 
 
-<div class="container">
-	
-
-	<div class="searchResultCont">
-		<div class="mylinks" ng-repeat="item in pagedata | filter:searchquery | orderBy:'-createdate'">
-
-			<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
-
-		</div>
-	</div>
-</div>
+<ng-include src="'partials/pagespecificdata.html'"> </ng-include>

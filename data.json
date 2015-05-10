@@ -83,7 +83,7 @@
 		"title": "Border-radius: create rounded corners with CSS! - CSS3 . Info",
 		"topic": "CSS",
 		"href": "http://www.css3.info/preview/rounded-border/",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1227,7 +1227,7 @@
 		"title": "CSS3 tutorial to embed custom fonts in web pages",
 		"topic": "CSS",
 		"href": "http://www.imajine.in/tutorials/css/embedfonts.aspx",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1267,7 +1267,7 @@
 		"title": "gradient",
 		"topic": "CSS",
 		"href": "http://www.impressivewebs.com/css3-linear-gradient-syntax/",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1275,7 +1275,7 @@
 		"title": "Ever needed a transparent 1x1 PNG pixel? Grab one here!",
 		"topic": "CSS",
 		"href": "http://www.1x1px.me/",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1420208747",
 		"moddate": "1420208747"
 	},
@@ -1483,7 +1483,7 @@
 		"title": "Bootstrap Home",
 		"topic": "CSS",
 		"href": "http://twitter.github.io/bootstrap/",
-		"subtopic": "tb",
+		"subtopic": "Twitter Bootstrap",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1491,7 +1491,7 @@
 		"title": "Customizing Bootstrap | Smashing Coding",
 		"topic": "CSS",
 		"href": "http://coding.smashingmagazine.com/2013/03/12/customizing-bootstrap/",
-		"subtopic": "tb",
+		"subtopic": "Twitter Bootstrap",
 		"createdate": "1391592301",
 		"moddate": "1391592301"
 	},
@@ -1507,7 +1507,7 @@
 		"title": "Grid displayer",
 		"topic": "CSS",
 		"href": "javascript:(function()%20{%20%20%20var%20head%20=%20document.getElementsByTagName(\"head\")[0];%20%20%20var%20bklScript%20=%20document.createElement(\"script\");%20%20%20bklScript.type%20=%20\"text/javascript\";%20%20%20bklScript.src%20=%20\"http://alefeuvre.github.com/foundation-grid-displayer/gd-bookmarklet.min.js\";%20%20%20head.appendChild(bklScript);%20})();",
-		"subtopic": "tb",
+		"subtopic": "Twitter Bootstrap",
 		"createdate": "1389093133",
 		"moddate": "1389093133"
 	},
@@ -1795,7 +1795,7 @@
 		"title": "Invisible animation — Medium",
 		"topic": "CSS",
 		"href": "https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1425365007",
 		"moddate": "1425365007"
 	},
@@ -1803,7 +1803,7 @@
 		"title": "What CSS prefixes should I use?",
 		"topic": "CSS",
 		"href": "http://shouldiprefix.com/",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1425983625",
 		"moddate": "1425983625"
 	},
@@ -1811,7 +1811,7 @@
 		"title": "Transforms - Learn to Code Advanced HTML &amp; CSS",
 		"topic": "CSS",
 		"href": "http://learn.shayhowe.com/advanced-html-css/css-transforms/",
-		"subtopic": "css3",
+		"subtopic": "CSS3",
 		"createdate": "1430537989",
 		"moddate": "1430537989"
 	},

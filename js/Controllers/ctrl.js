@@ -51,6 +51,7 @@ myApp.controller("htmlCtrl", function($scope, $routeParams,mydata,$location) {
 	var value=$location.path().substring(1);
 	mydata.gettopicspecsubtitledata(value).then(function(data){
 		$scope.pagedata=data.subtopicdataarr;
+		$scope.subtopic=data.subtopic
 	});
 });
 
@@ -59,6 +60,7 @@ myApp.controller("miscCtrl", function($scope, $routeParams,mydata,$location) {
 	var value=$location.path().substring(1);
 	mydata.gettopicspecsubtitledata(value).then(function(data){
 		$scope.pagedata=data.subtopicdataarr;
+		$scope.subtopic=data.subtopic;
 	});
 
 });
@@ -76,6 +78,7 @@ myApp.controller("cssCtrl", function($scope, $routeParams,mydata,$location) {
 	var value=$location.path().substring(1);
 	mydata.gettopicspecsubtitledata(value).then(function(data){
 		$scope.pagedata=data.subtopicdataarr;
+		$scope.subtopic=data.subtopic;
 	});
 });
 myApp.controller("jsCtrl", function($scope, $routeParams,mydata,$location) {
@@ -83,6 +86,7 @@ myApp.controller("jsCtrl", function($scope, $routeParams,mydata,$location) {
 	var value=$location.path().substring(1);
 	mydata.gettopicspecsubtitledata(value).then(function(data){
 		$scope.pagedata=data.subtopicdataarr;
+		$scope.subtopic=data.subtopic;
 	});
 });
 myApp.controller("searchCtrl", function($scope, $routeParams,alldata,$location) {

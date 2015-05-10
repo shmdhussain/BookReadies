@@ -2,29 +2,8 @@
 <div class="bookHead" id="content" tabindex="-1">
   <div class="container">
 	<h1>Browsers</h1>
-	<p></p>
+	<p>List of common browser issues, shortcuts, plugins, Debugging in browser and more...</p>
   </div>
 </div>
 
-<div class="container">
-	
-	<accordion close-others="$scope.accprop.closeother">
-		<accordion-group ng-repeat="subtopicitem in subtopic" >
-			<accordion-heading>
-				{{subtopicitem}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
-			</accordion-heading>
-			<div class="searchResultCont">
-				<div class="mylinks" ng-repeat="item in pagedata | filter:subtopicitem | orderBy:'-createdate'">
-
-					<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
-
-				</div>
-			</div>
-		</accordion-group>
-		
-  </accordion>
-  
-		
-	
-	
-</div>
+<ng-include src="'partials/pagespecificdata.html'"> </ng-include>

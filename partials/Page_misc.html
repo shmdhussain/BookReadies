@@ -2,18 +2,7 @@
 <div class="bookHead" id="content" tabindex="-1">
   <div class="container">
 	<h1>Miscellaneous</h1>
-	<p></p>
+	<p>MS Office Tips and Tricks, IDE shortcuts, travel sites, internet work and more...</p>
   </div>
 </div>
-
-<div class="container">
-	
-
-	<div class="searchResultCont">
-		<div class="mylinks" ng-repeat="item in pagedata | filter:searchquery | orderBy:'-createdate'">
-
-			<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
-
-		</div>
-	</div>
-</div>
+<ng-include src="'partials/pagespecificdata.html'"> </ng-include>
