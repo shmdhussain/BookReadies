@@ -2,11 +2,18 @@
 
 
 
+<div class="container">
+	<div class="pRL15 form-group searchinput rel">
+		<label for="search">Search for topics</label>
+		<input type="text" myreset class="form-control" id="search" placeholder="Search Topic" ng-model="searchquery">
+	</div>
 
-<div class="pRL15 form-group searchinput">
-	<label for="search">Search for topics</label>
-	<input type="text" class="form-control" id="search" placeholder="Search Topic">
+	<div class="searchResultCont">
+		<div class="mylinks" ng-repeat="item in pagedata | filter:searchquery | orderBy:'-createdate'">
+
+			<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
+
+		</div>
+	</div>
 </div>
-<ul>
-	<li ng-repeat="item in pagedata">{{item.title}}</li>
-</ul>
+

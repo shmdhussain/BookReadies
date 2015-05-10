@@ -6,8 +6,25 @@
   </div>
 </div>
 
-<ul>
+<div class="container">
+	
+	<accordion close-others="$scope.accprop.closeother">
+		<accordion-group ng-repeat="subtopicitem in subtopic" >
+			<accordion-heading>
+				{{subtopicitem}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+			</accordion-heading>
+			<div class="searchResultCont">
+				<div class="mylinks" ng-repeat="item in pagedata | filter:subtopicitem | orderBy:'-createdate'">
 
-<li ng-repeat="item in pagedata">{{item.title}}</li>
+					<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
 
-</ul>
+				</div>
+			</div>
+		</accordion-group>
+		
+  </accordion>
+  
+		
+	
+	
+</div>

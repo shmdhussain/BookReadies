@@ -63,15 +63,21 @@ myApp.factory('mydata', function($http, httpq) {
 			
 			var subtitledatapro=httpq.get().then(function(alldata){
 				console.log("hidddd");
-				var subtopicdata={'subtopicdataarr':[],'nooflinks':0};
+				var subtopicdata={'subtopicdataarr':[],'nooflinks':0,subtopic:[]};
 				var count=0;
+				var uniquesubtopic = {};
 				angular.forEach(alldata.data, function(value, key) {
+					
 					if(value.topic == topictitle){
 					  subtopicdata.subtopicdataarr.push(value);
 					  count++;
 					  subtopicdata.nooflinks=count;
+						//find subtopics 0f unique types
+					    if( typeof(uniquesubtopic[value.subtopic]) == "undefined"){
+						  subtopicdata.subtopic.push(value.subtopic);
+						}
+						uniquesubtopic[value.subtopic] = 0;
 					}
-					
 					
 				});
 				return subtopicdata;

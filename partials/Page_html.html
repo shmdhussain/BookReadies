@@ -6,8 +6,16 @@
   </div>
 </div>
 
-<ul>
 
-<li ng-repeat="item in pagedata">{{item.title}}</li>
 
-</ul>
+<div class="container">
+	
+
+	<div class="searchResultCont">
+		<div class="mylinks" ng-repeat="item in pagedata | filter:searchquery | orderBy:'-createdate'">
+
+			<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
+
+		</div>
+	</div>
+</div>

@@ -1,5 +1,5 @@
 	// Create a new module
-	var myApp = angular.module('myApp', ['ngRoute']);
+	var myApp = angular.module('myApp', ['ngRoute','ui.bootstrap']);
 	 
 	 
 	// configure existing services inside initialization blocks.
@@ -64,7 +64,7 @@
 						}
 		          }
 		  })
-		.when('/search/:param', {
+		.when('/search/:param/:myfilter', {
 		  templateUrl:'partials/Page_search.html',
 		  controller:'searchCtrl',
 		  resolve:{

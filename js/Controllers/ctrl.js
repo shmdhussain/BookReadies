@@ -1,6 +1,6 @@
 myApp.controller('parentCtrl',['$scope','$window','$location',function ($scope,$window,$location) {
 
-
+	$scope.accprop={open:true,closeother:false}
 
 
 
@@ -67,6 +67,7 @@ myApp.controller("browserCtrl", function($scope, $routeParams,mydata,$location) 
 	var value=$location.path().substring(1);
 	mydata.gettopicspecsubtitledata(value).then(function(data){
 		$scope.pagedata=data.subtopicdataarr;
+		$scope.subtopic=data.subtopic;
 	});
 
 });
@@ -87,8 +88,15 @@ myApp.controller("jsCtrl", function($scope, $routeParams,mydata,$location) {
 myApp.controller("searchCtrl", function($scope, $routeParams,alldata,$location) {
 	console.log("searchCtrl");
     $scope.param = $routeParams.param;
+    $scope.myfilter = $routeParams.myfilter;
 	$scope.pagedata=[];
-	
+	if($scope.myfilter=='nofilter'){
+		$scope.searchquery='';
+	}
+	else{
+		$scope.searchquery=$scope.myfilter;
+	}
+	//$scope.searchquery='';
 	
 	
 	if($scope.param=='html'){
