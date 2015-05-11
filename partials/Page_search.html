@@ -11,7 +11,7 @@
 	<div class="searchResultCont">
 		<div class="mylinks" ng-repeat="item in pagedata | filter:searchquery | orderBy:'-createdate'">
 
-			<a title="_blank" title="{{item.title}}" href="item.href">{{item.title}}</a>
+			<a title="_blank" title="{{item.title}}" href="{{item.href}}">{{item.title}}</a>
 
 		</div>
 	</div>

@@ -6788,7 +6788,7 @@ input + .reset-field {
   background-position: 1px 1px;
   height: 20px;
   width: 20px;
-  background-image: url("/images/clear.png");
+  background-image: url("../../images/clear.png");
   background-size: 20px 20px;
 }
 input:focus + .reset-field {
