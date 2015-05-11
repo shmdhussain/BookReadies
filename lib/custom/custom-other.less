@@ -131,10 +131,11 @@
 .searchinput label{color:@myprimaryColor}
 .mylinks{padding:5px 0;}
 #mymain .mylinks a{color:darken(@myprimaryColor,20%)}
-.searchResultCont{padding-left:30px}
+.searchResultCont{padding-left:0px}
 .glyphicon{color:@mysecColor}
 accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decoration:none}
-
+.bookHead p{padding: 0 10px}
+#mymain .panel-title {text-transform:capitalize}
 @media (min-width: @screen-sm) {
     .bookHead {
         padding-top:60px;
@@ -157,8 +158,18 @@ accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decorat
 	}
 	.booksec{margin:0 40px}
 	.dsb{margin-bottom:20px}
-}
+	.searchResultCont{padding-left:30px}
 
+}
+/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease)*/
+.booktitle{
+	
+
+}
+.booktitle:hover{
+
+
+}
 @media (min-width: @screen-md) {
     .bookHead h1,.bookHead p {
         margin-right:380px

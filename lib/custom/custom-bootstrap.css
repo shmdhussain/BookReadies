@@ -6682,7 +6682,7 @@ button.close {
   color: #ee0081;
 }
 .searchResultCont {
-  padding-left: 30px;
+  padding-left: 0px;
 }
 .glyphicon {
   color: #ffffff;
@@ -6692,6 +6692,12 @@ accordion a:active,
 accordion a:hover {
   outline: none;
   text-decoration: none;
+}
+.bookHead p {
+  padding: 0 10px;
+}
+#mymain .panel-title {
+  text-transform: capitalize;
 }
 @media (min-width: 768px) {
   .bookHead {
@@ -6719,7 +6725,11 @@ accordion a:hover {
   .dsb {
     margin-bottom: 20px;
   }
+  .searchResultCont {
+    padding-left: 30px;
+  }
 }
+/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease)*/
 @media (min-width: 992px) {
   .bookHead h1,
   .bookHead p {
