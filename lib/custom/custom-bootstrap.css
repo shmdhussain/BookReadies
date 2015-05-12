@@ -5053,9 +5053,10 @@ a.thumbnail.active {
   -webkit-animation: progress-bar-stripes 2s linear infinite;
   -o-animation: progress-bar-stripes 2s linear infinite;
   animation: progress-bar-stripes 2s linear infinite;
-  -webkit-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease;
-  -moz-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease;
-  -ms-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease;
+  -webkit-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease infinite alternate;
+  -moz-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease infinite alternate;
+  -ms-animation: progress-bar-stripes 2s linear infinite 300ms 0 ease infinite alternate;
+  animation: progress-bar-stripes 2s linear infinite 300ms 0 ease infinite alternate;
 }
 .progress-bar-success {
   background-color: #5cb85c;
@@ -6682,7 +6683,7 @@ button.close {
   color: #ee0081;
 }
 .searchResultCont {
-  padding-left: 0px;
+  padding-left: 30px;
 }
 .glyphicon {
   color: #ffffff;
@@ -6726,10 +6727,96 @@ accordion a:hover {
     margin-bottom: 20px;
   }
   .searchResultCont {
-    padding-left: 30px;
+    padding-left: 0px;
   }
 }
-/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease)*/
+/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate);*/
+.booktitle:hover {
+  -webkit-animation: booktitle 3s 0s ease 1 alternate;
+  -moz-animation: booktitle 3s 0s ease 1 alternate;
+  -ms-animation: booktitle 3s 0s ease 1 alternate;
+  animation: booktitle 3s 0s ease 1 alternate;
+}
+@-webkit-keyframes booktitle {
+  0% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+  }
+  50% {
+    -webkit-transform: rotateY(30deg);
+    -moz-transform: rotateY(30deg);
+    -ms-transform: rotateY(30deg);
+    -o-transform: rotateY(30deg);
+  }
+  100% {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+  }
+}
+@-moz-keyframes booktitle {
+  0% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+}
+@-o-keyframes booktitle {
+  0% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+}
+@keyframes booktitle {
+  0% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+  60% {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+  }
+}
 @media (min-width: 992px) {
   .bookHead h1,
   .bookHead p {

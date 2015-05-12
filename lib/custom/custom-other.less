@@ -161,15 +161,41 @@ accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decorat
 	.searchResultCont{padding-left:0px}
 
 }
-/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease)*/
+/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate);*/
 .booktitle{
+
 	
 
 }
 .booktitle:hover{
 
-
+	.animation (booktitle, 3s,  0s,  ease, 1, alternate);
+	
 }
+
+
+@-webkit-keyframes booktitle{
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(30deg)) }
+  100% { .transform(rotateY(0deg)) }
+}
+@-moz-keyframes booktitle {
+  0%   { .transform(scale(1)) }
+  60% { .transform(scale(1.05)) }
+  100% { .transform(scale(1)) }
+}
+@-o-keyframes booktitle {
+  0%   { .transform(scale(1)) }
+  60% { .transform(scale(1.05)) }
+  100% { .transform(scale(1)) }
+}
+@keyframes booktitle {
+  0%   { .transform(scale(1)) }
+  60% { .transform(scale(1.05)) }
+  100% { .transform(scale(1)) }
+}
+
+
 @media (min-width: @screen-md) {
     .bookHead h1,.bookHead p {
         margin-right:380px
@@ -255,10 +281,11 @@ accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decorat
 	background-image: -o-linear-gradient(left, @startColor, @endColor);
 }
 
-.animation (@name, @duration: 300ms, @delay: 0, @ease: ease) {
-	-webkit-animation: @name @duration @delay @ease;
-	-moz-animation:    @name @duration @delay @ease;
-	-ms-animation:     @name @duration @delay @ease;
+.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate) {
+	-webkit-animation: @name @duration @delay @ease @iteration-count @direction;
+	-moz-animation:    @name @duration @delay @ease @iteration-count @direction;
+	-ms-animation:     @name @duration @delay @ease @iteration-count @direction;
+	    animation:     @name @duration @delay @ease @iteration-count @direction;
 }
 
 .transition (@transition) {
