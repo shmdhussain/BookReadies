@@ -176,23 +176,23 @@ accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decorat
 
 @-webkit-keyframes booktitle{
   0%   { .transform(rotateY(0deg)) }
-  50% { .transform(rotateY(30deg)) }
+  50% { .transform(rotateY(20deg)) }
   100% { .transform(rotateY(0deg)) }
 }
 @-moz-keyframes booktitle {
-  0%   { .transform(scale(1)) }
-  60% { .transform(scale(1.05)) }
-  100% { .transform(scale(1)) }
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
 }
 @-o-keyframes booktitle {
-  0%   { .transform(scale(1)) }
-  60% { .transform(scale(1.05)) }
-  100% { .transform(scale(1)) }
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
 }
 @keyframes booktitle {
-  0%   { .transform(scale(1)) }
-  60% { .transform(scale(1.05)) }
-  100% { .transform(scale(1)) }
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
 }
 
 
@@ -342,7 +342,7 @@ accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decorat
 	-ms-transform-origin:     @x @y;
 	-o-transform-origin:      @x @y;
 }
-
+/*START:Sty;es for Delete X button*/
 .reset-field {
   float: right;
   background: none;
@@ -400,5 +400,6 @@ input:focus+.reset-field{
   zoom: 1;
   
 }
+/*END:Styles for Delete X button*/
 .rel{position:relative}
 .nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
