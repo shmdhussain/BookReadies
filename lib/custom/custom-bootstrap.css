@@ -6727,7 +6727,7 @@ accordion a:hover {
     margin-bottom: 20px;
   }
   .searchResultCont {
-    padding-left: 0px;
+    padding-left: 15px;
   }
 }
 /*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate);*/
