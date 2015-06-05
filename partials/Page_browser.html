@@ -2,12 +2,8 @@
 <div class="bookHead" id="content" tabindex="-1">
   <div class="container">
 	<h1>Browsers</h1>
-	<p></p>
+	<p>List of common browser issues, shortcuts, plugins, Debugging in browser and more...</p>
   </div>
 </div>
 
-<ul>
-
-<li ng-repeat="item in pagedata">{{item.title}}</li>
-
-</ul>
+<ng-include src="'partials/pagespecificdata.html'"> </ng-include>

@@ -1,0 +1,22 @@
+<div class="container pRL5">
+	
+	<accordion close-others="$scope.accprop.closeother">
+		<accordion-group ng-repeat="subtopicitem in subtopic" >
+			<accordion-heading>
+				{{subtopicitem}} <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+			</accordion-heading>
+			<div class="searchResultCont">
+				<div class="mylinks" ng-repeat="item in pagedata | filter:{'subtopic':subtopicitem} | orderBy:'-createdate'">
+
+					<a title="_blank" title="{{item.title}}" href="{{item.href}}">{{item.title}}</a>
+
+				</div>
+			</div>
+		</accordion-group>
+		
+  </accordion>
+  
+		
+	
+	
+</div>

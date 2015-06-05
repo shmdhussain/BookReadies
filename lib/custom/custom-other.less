@@ -51,9 +51,10 @@
 	background-color:fade(@myprimaryColor, 50%);
 }
 
-#mymain .navbar-collapse li.active a{
+#mymain .navbar-collapse li a.mobheadactive,#mymain .navbar-collapse li a.mobheadactive:hover{
+	background:@myprimaryColor;
 	color:@mysecColor;
-	background-color:fade(@myprimaryColor, 90%);
+	font-weight:bold;
 }
 
 .clear{clear:both}
@@ -71,6 +72,15 @@
 	background:@mysecColor;
 	color:@myprimaryColor;
 }
+
+#mymain .dsb a.headactive{
+	background:@mysecColor;
+	color:@myprimaryColor;
+}
+
+
+
+
 .booksec{margin:0 20px}
 
 .booktitle{
@@ -114,10 +124,18 @@
 }
 .booktitle a:hover{text-decoration:none}
 .pRL15{padding-left:15px;padding-right:15px}
+.pRL5{padding-left:5px;padding-right:5px}
 #mymain .mRL-15{margin-left:-15px;  margin-right:-15px}
 
 .searchinput{margin-top:40px}
 .searchinput label{color:@myprimaryColor}
+.mylinks{padding:5px 0;}
+#mymain .mylinks a{color:darken(@myprimaryColor,20%)}
+.searchResultCont{padding-left:30px}
+.glyphicon{color:@mysecColor}
+accordion a:focus,accordion a:active,accordion a:hover{outline:none;text-decoration:none}
+.bookHead p{padding: 0 10px}
+#mymain .panel-title {text-transform:capitalize}
 @media (min-width: @screen-sm) {
     .bookHead {
         padding-top:60px;
@@ -140,7 +158,43 @@
 	}
 	.booksec{margin:0 40px}
 	.dsb{margin-bottom:20px}
+	.searchResultCont{padding-left:15px}
+
 }
+/*.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate);*/
+.booktitle{
+
+	
+
+}
+.booktitle:hover{
+
+	.animation (booktitle, 3s,  0s,  ease, 1, alternate);
+	
+}
+
+
+@-webkit-keyframes booktitle{
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
+}
+@-moz-keyframes booktitle {
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
+}
+@-o-keyframes booktitle {
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
+}
+@keyframes booktitle {
+  0%   { .transform(rotateY(0deg)) }
+  50% { .transform(rotateY(20deg)) }
+  100% { .transform(rotateY(0deg)) }
+}
+
 
 @media (min-width: @screen-md) {
     .bookHead h1,.bookHead p {
@@ -227,10 +281,11 @@
 	background-image: -o-linear-gradient(left, @startColor, @endColor);
 }
 
-.animation (@name, @duration: 300ms, @delay: 0, @ease: ease) {
-	-webkit-animation: @name @duration @delay @ease;
-	-moz-animation:    @name @duration @delay @ease;
-	-ms-animation:     @name @duration @delay @ease;
+.animation (@name, @duration: 300ms, @delay: 0, @ease: ease,  @iteration-count:infinite, @direction: alternate) {
+	-webkit-animation: @name @duration @delay @ease @iteration-count @direction;
+	-moz-animation:    @name @duration @delay @ease @iteration-count @direction;
+	-ms-animation:     @name @duration @delay @ease @iteration-count @direction;
+	    animation:     @name @duration @delay @ease @iteration-count @direction;
 }
 
 .transition (@transition) {
@@ -287,3 +342,64 @@
 	-ms-transform-origin:     @x @y;
 	-o-transform-origin:      @x @y;
 }
+/*START:Sty;es for Delete X button*/
+.reset-field {
+  float: right;
+  background: none;
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  overflow: hidden;
+  margin-top: 1px;
+  display: inline-block;
+  font: 0/0 Arial;
+  color: transparent;
+  background-color: transparent;
+  border: 0;
+  letter-spacing: -1px;
+  word-spacing: -1px;
+}
+input+.reset-field{
+  box-sizing: border-box;
+  background: none;
+  height: 35px;
+  width: 35px;
+  display: block;
+  padding: 8px 7px 8px 8px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  box-shadow: none;
+  border: none;
+  content: " ";
+  opacity: 0;
+  filter: alpha(opacity=0);
+  top:22px;
+  right:20px
+}
+.reset-field:before{
+  display: inline-block;
+  vertical-align: middle;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
+  font: 0/0 "Arial";
+  color: transparent;
+  letter-spacing: 0;
+  content: " ";
+  background-position: 1px 1px;
+  height: 20px;
+  width: 20px;
+  background-image: url("../../images/clear.png");
+  background-size: 20px 20px;
+}
+input:focus+.reset-field{
+  opacity: 1;
+  filter: alpha(opacity=100);
+  zoom: 1;
+  
+}
+/*END:Styles for Delete X button*/
+.rel{position:relative}
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }

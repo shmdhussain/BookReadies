@@ -13,14 +13,14 @@
 	
 	</div>
 	<div class="hidden-xs dsb ">
-		<a ng-repeat="item in topicData" class="btn-lg btn btn-default" href="#/{{item}}" role="button">{{item}}</a>
-		<a  class="btn-lg btn btn-default" href="#/search/all" role="button">Search</a>
+		<a ng-class="(item==pagetitle.val)?'headactive':'noactive'" ng-repeat="item in topicData" class="btn-lg btn btn-default" href="#/{{item}}" role="button">{{item}}</a>
+		<a  ng-class="('search'==pagetitle.val)?'headactive':'noactive'"  class="btn-lg btn btn-default" href="#/search/all/nofilter" role="button">Search</a>
 	</div>
 	
 	<div class="collapse navbar-collapse mRL-15">
 	  <ul class="nav navbar-nav">
-		<li ng-repeat="item in topicData"><a href="#/{{item}}" role="button">{{item}}</a></li>
-		<li ><a href="#/search/all" role="button">Search</a></li>
+		<li  ng-repeat="item in topicData"><a ng-class="(item==pagetitle.val)?'mobheadactive':'noactive'" href="#/{{item}}" role="button">{{item}}</a></li>
+		<li ><a ng-class="('search'==pagetitle.val)?'mobheadactive':'noactive'"  href="#/search/all/nofilter" role="button">Search</a></li>
 	  </ul>
 	</div><!--/.nav-collapse -->
   </div>
