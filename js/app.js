@@ -3,7 +3,7 @@
 	 
 	 
 	// configure existing services inside initialization blocks.
-	myApp.config(function($locationProvider,$routeProvider) {
+	myApp.config(function($routeProvider) {
 		$routeProvider
 		.when('/home', {
 		   templateUrl:'partials/home.html',
